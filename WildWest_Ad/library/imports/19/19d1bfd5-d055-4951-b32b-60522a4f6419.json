@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biao_ti",
+    "texture": "e41621bd-08ed-4dc3-b1a4-34af1e79460c",
+    "atlas": "",
+    "rect": [
+      11,
+      10,
+      714,
+      262
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      736,
+      282
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

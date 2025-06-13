@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_paypal",
+    "texture": "657101ec-2ee0-4861-a3c9-480d97dc02d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

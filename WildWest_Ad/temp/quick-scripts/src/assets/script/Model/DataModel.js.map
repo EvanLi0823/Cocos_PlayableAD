@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/script/Model/DataModel.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["export type SingleRPConfigModel = {\n    value:string,\n \n }\n \nexport type ReceviceRPResultModel = {\n    amount:string,\n}"]}

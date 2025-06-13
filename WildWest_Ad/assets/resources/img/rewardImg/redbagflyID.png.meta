@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "04928ed6-9915-4708-b77e-feb10503c58d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 104,
+  "height": 84,
+  "platformSettings": {},
+  "subMetas": {
+    "redbagflyID": {
+      "ver": "1.0.6",
+      "uuid": "accba50a-1456-4164-bcdc-c63344e99dd7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "04928ed6-9915-4708-b77e-feb10503c58d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -0.5,
+      "trimX": 4,
+      "trimY": 3,
+      "width": 98,
+      "height": 79,
+      "rawWidth": 104,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
