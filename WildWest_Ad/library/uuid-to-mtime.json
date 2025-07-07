@@ -140,8 +140,8 @@
     "relativePath": "script/localDataManager.ts"
   },
   "8b0bee6c-3a09-43df-9af8-37b078730f02": {
-    "asset": 1749722539543,
-    "meta": 1749722539550,
+    "asset": 1751858655492,
+    "meta": 1751858655498,
     "relativePath": "scene/game.fire"
   },
   "e8eee110-a89d-43d8-b795-7dd390186cbc": {
@@ -1120,8 +1120,8 @@
     "relativePath": "script/tireSteakScript.ts"
   },
   "4644d0a0-c729-4290-975d-200207cf0556": {
-    "asset": 1749036498562,
-    "meta": 1749036498566,
+    "asset": 1751858783069,
+    "meta": 1751858783073,
     "relativePath": "resources/prefab/BigWinNode.prefab"
   },
   "4a7f730d-2938-4c55-8e5d-3a38af4937de": {
@@ -1174,24 +1174,24 @@
     "meta": 1749035342935,
     "relativePath": "resources/img/SceneImage/kuang_3.png"
   },
-  "e1256fdc-c0c2-45c7-88a0-e356492accdc": {
-    "asset": 1749036518067,
-    "meta": 1749036537122,
-    "relativePath": "script/BigWinNode.ts"
-  },
   "4602d3b1-d022-47a2-9b8d-78e2a6201ec8": {
     "asset": 1749722459526,
     "meta": 1749722464421,
     "relativePath": "script/DownloadBtn.ts"
   },
+  "b40406b4-89a2-422e-8673-694891820987": {
+    "asset": 1751858401784,
+    "meta": 1751858442647,
+    "relativePath": "script/gameConfig.ts"
+  },
   "9778a88a-a838-42f3-802d-c0785064e3f9": {
-    "asset": 1749722461914,
-    "meta": 1749722464475,
+    "asset": 1751858650372,
+    "meta": 1751858651874,
     "relativePath": "script/qiuScript/GameManager.ts"
   },
-  "b40406b4-89a2-422e-8673-694891820987": {
-    "asset": 1749782999833,
-    "meta": 1749783001093,
-    "relativePath": "script/gameConfig.ts"
+  "e1256fdc-c0c2-45c7-88a0-e356492accdc": {
+    "asset": 1751858780891,
+    "meta": 1751858782380,
+    "relativePath": "script/BigWinNode.ts"
   }
 }

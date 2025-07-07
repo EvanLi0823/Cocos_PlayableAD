@@ -39,7 +39,7 @@ var BigWinNode = /** @class */ (function (_super) {
         var _a = gameConfig_1.default.getWord('cashOut'), string = _a.string, fontSize = _a.fontSize;
         this.download.string = string;
         this.download.fontSize = fontSize;
-        var addUnit = gameConfig_1.default.getUnityMoneyNumber(15.00);
+        var addUnit = gameConfig_1.default.getUnityMoneyNumber(300.00);
         this.cashLabel.string = gameConfig_1.default.getUnifyCurrency() + addUnit.toFixed(2);
         setTimeout(function () {
             console.log("this.cashLabel.actualWidth", _this.cashLabel.node.width);

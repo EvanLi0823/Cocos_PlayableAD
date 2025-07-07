@@ -104,6 +104,9 @@ var GameManager = /** @class */ (function (_super) {
             cc.director.getPhysicsManager().gravity = new cc.Vec2(0, -1700);
         }
         this.spineNode.active = false;
+        cc.tween(this.spinBtn.node)
+            .repeatForever(cc.tween().sequence(cc.tween().to(1, { scale: 1.2 }), cc.tween().to(1, { scale: 1 })))
+            .start();
     };
     /**-----------------------------slots------------------------------------ */
     //spin按钮点击

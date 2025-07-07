@@ -15,7 +15,7 @@ export default class BigWinNode extends cc.Component {
         const {string, fontSize} = gameConfig.getWord('cashOut')
         this.download.string = string;
         this.download.fontSize = fontSize;
-        let addUnit = gameConfig.getUnityMoneyNumber(15.00);
+        let addUnit = gameConfig.getUnityMoneyNumber(300.00);
         this.cashLabel.string =  gameConfig.getUnifyCurrency() + addUnit.toFixed(2);
         setTimeout(() => {
             console.log("this.cashLabel.actualWidth",this.cashLabel.node.width);

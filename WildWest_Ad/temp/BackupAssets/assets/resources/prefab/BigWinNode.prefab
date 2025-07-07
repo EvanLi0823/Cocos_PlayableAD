@@ -1305,7 +1305,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 505.79,
+      "width": 216.45,
       "height": 132
     },
     "_anchorPoint": {
@@ -1357,8 +1357,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "$15.001235",
-    "_N$string": "$15.001235",
+    "_string": "$300",
+    "_N$string": "$300",
     "_fontSize": 94.6,
     "_lineHeight": 100,
     "_enableWrapText": true,
@@ -1668,8 +1668,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "Вывод средств",
-    "_N$string": "Вывод средств",
+    "_string": "",
+    "_N$string": "",
     "_fontSize": 60,
     "_lineHeight": 80,
     "_enableWrapText": true,
