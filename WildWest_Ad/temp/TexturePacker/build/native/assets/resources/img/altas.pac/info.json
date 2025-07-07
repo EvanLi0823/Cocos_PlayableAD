@@ -1,5 +1,5 @@
 {
-  "projectPath": "/Users/lifan/Downloads/WildWest_Ad",
+  "projectPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad",
   "actualPlatform": "web-mobile",
   "mtimes": {
     "e2800f2d-f2c5-4bcd-971c-df59a373b024": {
@@ -289,7 +289,7 @@
             "name": "light",
             "uuid": "6c482fe6-fe19-48d3-b9cc-72655a074e36",
             "textureUuid": "8104a9f8-56e8-40e2-81a5-107d26530a2c",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376531_image_12.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_12.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -302,7 +302,7 @@
             "rawHeight": 740,
             "width": 766,
             "height": 726,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/81/8104a9f8-56e8-40e2-81a5-107d26530a2c.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/81/8104a9f8-56e8-40e2-81a5-107d26530a2c.png",
             "x": 0,
             "y": 0,
             "rotatedWidth": 766,
@@ -312,7 +312,7 @@
             "name": "big",
             "uuid": "3cde92f9-bdf3-458a-baa1-047127526d07",
             "textureUuid": "3fde3b8f-0dba-4470-9137-153a64a48af3",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376530_image_7.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349183_image_7.png",
             "trim": {
               "x": 769,
               "y": 3,
@@ -325,7 +325,7 @@
             "rawHeight": 318,
             "width": 801,
             "height": 254,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/3f/3fde3b8f-0dba-4470-9137-153a64a48af3.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/3f/3fde3b8f-0dba-4470-9137-153a64a48af3.png",
             "x": 766,
             "y": 0,
             "rotated": true,
@@ -336,7 +336,7 @@
             "name": "biao_ti",
             "uuid": "19d1bfd5-d055-4951-b32b-60522a4f6419",
             "textureUuid": "e41621bd-08ed-4dc3-b1a4-34af1e79460c",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376529_image_2.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349181_image_2.png",
             "trim": {
               "x": 3,
               "y": 729,
@@ -349,7 +349,7 @@
             "rawHeight": 282,
             "width": 720,
             "height": 268,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/e4/e41621bd-08ed-4dc3-b1a4-34af1e79460c.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/e4/e41621bd-08ed-4dc3-b1a4-34af1e79460c.png",
             "x": 0,
             "y": 726,
             "rotatedWidth": 720,
@@ -359,7 +359,7 @@
             "name": "big-win-di-kuang_bg_4",
             "uuid": "20e928e7-1cc8-4188-b549-06a561c3b486",
             "textureUuid": "50de1ec0-f748-4c51-ad34-d6d933af768c",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376530_image_4.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349182_image_4.png",
             "trim": {
               "x": 723,
               "y": 804,
@@ -372,7 +372,7 @@
             "rawHeight": 226,
             "width": 145,
             "height": 222,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/50/50de1ec0-f748-4c51-ad34-d6d933af768c.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/50/50de1ec0-f748-4c51-ad34-d6d933af768c.png",
             "x": 720,
             "y": 801,
             "rotatedWidth": 145,
@@ -382,7 +382,7 @@
             "name": "remindhand",
             "uuid": "9fc70cd2-26a7-4aa9-b346-86d3a1bf7c4d",
             "textureUuid": "8a28a65c-570b-47fa-9a5f-0f9836bf6039",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376532_image_16.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_16.png",
             "trim": {
               "x": 868,
               "y": 804,
@@ -395,7 +395,7 @@
             "rawHeight": 173,
             "width": 151,
             "height": 178,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/8a/8a28a65c-570b-47fa-9a5f-0f9836bf6039.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/8a/8a28a65c-570b-47fa-9a5f-0f9836bf6039.png",
             "x": 865,
             "y": 801,
             "rotatedWidth": 151,
@@ -405,12 +405,12 @@
         "width": 1020,
         "height": 1023,
         "name": "altas-1",
-        "imagePath": "/Users/lifan/Downloads/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/altas-1.png",
+        "imagePath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/altas-1.png",
         "compressd": {
           "suffix": [
             ".png"
           ],
-          "imagePathNoExt": "/Users/lifan/Downloads/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/compressed/altas-1"
+          "imagePathNoExt": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/compressed/altas-1"
         }
       },
       {
@@ -419,7 +419,7 @@
             "name": "icon",
             "uuid": "691831fe-eb32-43a0-a921-bc7402724dbb",
             "textureUuid": "abac6dcf-54d7-4edc-9b8a-dcf440382314",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376531_image_11.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_11.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -432,7 +432,7 @@
             "rawHeight": 506,
             "width": 492,
             "height": 491,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/ab/abac6dcf-54d7-4edc-9b8a-dcf440382314.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/ab/abac6dcf-54d7-4edc-9b8a-dcf440382314.png",
             "x": 0,
             "y": 0,
             "rotatedWidth": 492,
@@ -442,7 +442,7 @@
             "name": "big-win-di-kuang_bg_1",
             "uuid": "27d45051-3552-4553-8130-cdcacee37557",
             "textureUuid": "b400da7a-9522-4fc7-a2fc-e0e475c131f1",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376530_image_6.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349183_image_6.png",
             "trim": {
               "x": 495,
               "y": 3,
@@ -455,7 +455,7 @@
             "rawHeight": 335,
             "width": 936,
             "height": 332,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/b4/b400da7a-9522-4fc7-a2fc-e0e475c131f1.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/b4/b400da7a-9522-4fc7-a2fc-e0e475c131f1.png",
             "x": 492,
             "y": 0,
             "rotated": true,
@@ -466,7 +466,7 @@
             "name": "big-win-di-kuang_bg_3",
             "uuid": "b7345e13-ffcd-4509-ae8d-489cd9ffa8f4",
             "textureUuid": "2c5e5839-caa6-4029-aecd-d6fd1f368f82",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376534_image_22.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_22.png",
             "trim": {
               "x": 3,
               "y": 494,
@@ -479,7 +479,7 @@
             "rawHeight": 516,
             "width": 309,
             "height": 515,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/2c/2c5e5839-caa6-4029-aecd-d6fd1f368f82.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/2c/2c5e5839-caa6-4029-aecd-d6fd1f368f82.png",
             "x": 0,
             "y": 491,
             "rotatedWidth": 309,
@@ -489,7 +489,7 @@
             "name": "spin",
             "uuid": "8abddbdf-87c4-4822-9d0c-1c9b9ccacf4a",
             "textureUuid": "e1efcf58-e009-498d-8cf4-ab01227d32b5",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376532_image_14.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_14.png",
             "trim": {
               "x": 312,
               "y": 494,
@@ -502,7 +502,7 @@
             "rawHeight": 148,
             "width": 350,
             "height": 154,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/e1/e1efcf58-e009-498d-8cf4-ab01227d32b5.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/e1/e1efcf58-e009-498d-8cf4-ab01227d32b5.png",
             "x": 309,
             "y": 491,
             "rotated": true,
@@ -513,7 +513,7 @@
             "name": "qian",
             "uuid": "b5eaada8-5706-4ee5-ab9b-1a2cc1648028",
             "textureUuid": "dff262e8-82b7-4de0-a9dc-4df1660e49b2",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376534_image_21.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_21.png",
             "trim": {
               "x": 312,
               "y": 844,
@@ -526,7 +526,7 @@
             "rawHeight": 126,
             "width": 170,
             "height": 123,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/df/dff262e8-82b7-4de0-a9dc-4df1660e49b2.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/df/dff262e8-82b7-4de0-a9dc-4df1660e49b2.png",
             "x": 309,
             "y": 841,
             "rotatedWidth": 170,
@@ -536,7 +536,7 @@
             "name": "kuang_1",
             "uuid": "b25481a3-36b5-4ec7-a290-e47a1d41ea28",
             "textureUuid": "e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376533_image_20.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_20.png",
             "trim": {
               "x": 827,
               "y": 3,
@@ -549,7 +549,7 @@
             "rawHeight": 178,
             "width": 693,
             "height": 163,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/e8/e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/e8/e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d.png",
             "x": 824,
             "y": 0,
             "rotated": true,
@@ -560,7 +560,7 @@
             "name": "spin",
             "uuid": "e5094714-dece-45a4-a39c-e9e21081724f",
             "textureUuid": "7c939b1a-2a9c-4d4f-8fb6-2b80f6cbd46d",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376536_image_27.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349187_image_27.png",
             "trim": {
               "x": 827,
               "y": 696,
@@ -573,7 +573,7 @@
             "rawHeight": 124,
             "width": 287,
             "height": 109,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/7c/7c939b1a-2a9c-4d4f-8fb6-2b80f6cbd46d.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/7c/7c939b1a-2a9c-4d4f-8fb6-2b80f6cbd46d.png",
             "x": 824,
             "y": 693,
             "rotated": true,
@@ -584,7 +584,7 @@
             "name": "ic_dana",
             "uuid": "9925fbb8-2328-410c-8db7-58f4afe5dc00",
             "textureUuid": "a240e27c-e349-4627-a170-0a5f95a2ced6",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376532_image_15.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_15.png",
             "trim": {
               "x": 936,
               "y": 696,
@@ -597,7 +597,7 @@
             "rawHeight": 73,
             "width": 190,
             "height": 79,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/a2/a240e27c-e349-4627-a170-0a5f95a2ced6.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/a2/a240e27c-e349-4627-a170-0a5f95a2ced6.png",
             "x": 933,
             "y": 693,
             "rotated": true,
@@ -608,7 +608,7 @@
             "name": "redbagfly",
             "uuid": "16e57034-f0d4-4675-9acd-0aebe46f8060",
             "textureUuid": "ec5e6f4e-672b-4373-b94c-ab6757d1f603",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376529_image_0.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349176_image_0.png",
             "trim": {
               "x": 936,
               "y": 886,
@@ -621,7 +621,7 @@
             "rawHeight": 84,
             "width": 104,
             "height": 85,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/ec/ec5e6f4e-672b-4373-b94c-ab6757d1f603.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/ec/ec5e6f4e-672b-4373-b94c-ab6757d1f603.png",
             "x": 933,
             "y": 883,
             "rotated": true,
@@ -632,7 +632,7 @@
             "name": "ic_paypal",
             "uuid": "e3107d61-1961-4345-8bcc-61962ee3d19b",
             "textureUuid": "657101ec-2ee0-4861-a3c9-480d97dc02d6",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376535_image_26.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349187_image_26.png",
             "trim": {
               "x": 482,
               "y": 939,
@@ -645,7 +645,7 @@
             "rawHeight": 73,
             "width": 190,
             "height": 79,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/65/657101ec-2ee0-4861-a3c9-480d97dc02d6.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/65/657101ec-2ee0-4861-a3c9-480d97dc02d6.png",
             "x": 479,
             "y": 936,
             "rotatedWidth": 190,
@@ -655,7 +655,7 @@
             "name": "redbagflypt",
             "uuid": "187486e8-c463-4eb2-bee8-962741e540b9",
             "textureUuid": "bb871069-ec44-4a3b-a367-25ba4d456360",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376529_image_1.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349181_image_1.png",
             "trim": {
               "x": 672,
               "y": 939,
@@ -668,7 +668,7 @@
             "rawHeight": 84,
             "width": 104,
             "height": 85,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/bb/bb871069-ec44-4a3b-a367-25ba4d456360.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/bb/bb871069-ec44-4a3b-a367-25ba4d456360.png",
             "x": 669,
             "y": 936,
             "rotatedWidth": 104,
@@ -678,12 +678,12 @@
         "width": 1018,
         "height": 1021,
         "name": "altas-2",
-        "imagePath": "/Users/lifan/Downloads/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/altas-2.png",
+        "imagePath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/altas-2.png",
         "compressd": {
           "suffix": [
             ".png"
           ],
-          "imagePathNoExt": "/Users/lifan/Downloads/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/compressed/altas-2"
+          "imagePathNoExt": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/compressed/altas-2"
         }
       },
       {
@@ -692,7 +692,7 @@
             "name": "redbagflyKR",
             "uuid": "26cec1ce-1953-40cd-b81d-22df58331809",
             "textureUuid": "bc07f27c-b10f-43bb-821d-b2987b5a7443",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376530_image_5.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349182_image_5.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -705,7 +705,7 @@
             "rawHeight": 84,
             "width": 104,
             "height": 85,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/bc/bc07f27c-b10f-43bb-821d-b2987b5a7443.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/bc/bc07f27c-b10f-43bb-821d-b2987b5a7443.png",
             "x": 0,
             "y": 0,
             "rotated": true,
@@ -716,7 +716,7 @@
             "name": "redbagflyID",
             "uuid": "accba50a-1456-4164-bcdc-c63344e99dd7",
             "textureUuid": "04928ed6-9915-4708-b77e-feb10503c58d",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376533_image_19.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_19.png",
             "trim": {
               "x": 88,
               "y": 3,
@@ -729,7 +729,7 @@
             "rawHeight": 84,
             "width": 104,
             "height": 85,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/04/04928ed6-9915-4708-b77e-feb10503c58d.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/04/04928ed6-9915-4708-b77e-feb10503c58d.png",
             "x": 85,
             "y": 0,
             "rotated": true,
@@ -740,7 +740,7 @@
             "name": "redbagflyPK",
             "uuid": "ee1a8f96-e486-4cba-bdb4-2e23bc4d04a3",
             "textureUuid": "a0d8ab75-6439-464b-bdf8-e15eb2ea205e",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376536_image_28.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349187_image_28.png",
             "trim": {
               "x": 3,
               "y": 107,
@@ -753,7 +753,7 @@
             "rawHeight": 84,
             "width": 104,
             "height": 85,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/a0/a0d8ab75-6439-464b-bdf8-e15eb2ea205e.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/a0/a0d8ab75-6439-464b-bdf8-e15eb2ea205e.png",
             "x": 0,
             "y": 104,
             "rotated": true,
@@ -764,7 +764,7 @@
             "name": "ic_webmoney",
             "uuid": "1bbcb4b6-0d22-42f1-9d01-e7b3ae2e52c8",
             "textureUuid": "7756d9d3-c7e2-4fc7-89de-41559aaad7d6",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376530_image_3.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349181_image_3.png",
             "trim": {
               "x": 88,
               "y": 107,
@@ -777,7 +777,7 @@
             "rawHeight": 73,
             "width": 189,
             "height": 79,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/77/7756d9d3-c7e2-4fc7-89de-41559aaad7d6.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/77/7756d9d3-c7e2-4fc7-89de-41559aaad7d6.png",
             "x": 85,
             "y": 104,
             "rotated": true,
@@ -788,7 +788,7 @@
             "name": "ic_paytm",
             "uuid": "4b12f4c0-7963-4a2c-9479-45729f8d96b6",
             "textureUuid": "7fa28b23-605c-4bf2-aec0-e1b327b76078",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376531_image_9.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349184_image_9.png",
             "trim": {
               "x": 173,
               "y": 3,
@@ -801,7 +801,7 @@
             "rawHeight": 73,
             "width": 189,
             "height": 79,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/7f/7fa28b23-605c-4bf2-aec0-e1b327b76078.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/7f/7fa28b23-605c-4bf2-aec0-e1b327b76078.png",
             "x": 170,
             "y": 0,
             "rotated": true,
@@ -812,7 +812,7 @@
             "name": "ic_pagBank",
             "uuid": "a84925e8-8955-4e80-9bf0-af05a6604f1b",
             "textureUuid": "636217dd-a6d6-4da6-86c4-f9027821ccdd",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376533_image_18.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_18.png",
             "trim": {
               "x": 252,
               "y": 3,
@@ -825,7 +825,7 @@
             "rawHeight": 73,
             "width": 189,
             "height": 79,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/63/636217dd-a6d6-4da6-86c4-f9027821ccdd.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/63/636217dd-a6d6-4da6-86c4-f9027821ccdd.png",
             "x": 249,
             "y": 0,
             "rotated": true,
@@ -836,7 +836,7 @@
             "name": "ic_momo",
             "uuid": "c416154b-6607-4648-9beb-4b04c1edb0cd",
             "textureUuid": "090aca1a-e0c3-4541-a2d0-1db623d96f69",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376534_image_23.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_23.png",
             "trim": {
               "x": 3,
               "y": 296,
@@ -849,7 +849,7 @@
             "rawHeight": 73,
             "width": 189,
             "height": 79,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/09/090aca1a-e0c3-4541-a2d0-1db623d96f69.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/09/090aca1a-e0c3-4541-a2d0-1db623d96f69.png",
             "x": 0,
             "y": 293,
             "rotatedWidth": 189,
@@ -859,7 +859,7 @@
             "name": "cash_out2",
             "uuid": "a12ebeb3-18d2-424c-899f-7cf043638e23",
             "textureUuid": "7c2f1812-2211-47a1-ba40-03d5a98c1c7d",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376533_image_17.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_17.png",
             "trim": {
               "x": 192,
               "y": 192,
@@ -872,7 +872,7 @@
             "rawHeight": 94,
             "width": 187,
             "height": 80,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/7c/7c2f1812-2211-47a1-ba40-03d5a98c1c7d.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/7c/7c2f1812-2211-47a1-ba40-03d5a98c1c7d.png",
             "x": 189,
             "y": 189,
             "rotated": true,
@@ -883,7 +883,7 @@
             "name": "ic_gcash",
             "uuid": "f932343f-57e7-4e1a-a57e-0e842b6a1a4b",
             "textureUuid": "2d2fb7eb-0315-4262-baaa-a2a3688f6d0d",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376536_image_29.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349187_image_29.png",
             "trim": {
               "x": 3,
               "y": 379,
@@ -896,7 +896,7 @@
             "rawHeight": 73,
             "width": 190,
             "height": 79,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/2d/2d2fb7eb-0315-4262-baaa-a2a3688f6d0d.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/2d/2d2fb7eb-0315-4262-baaa-a2a3688f6d0d.png",
             "x": 0,
             "y": 376,
             "rotatedWidth": 190,
@@ -906,7 +906,7 @@
             "name": "big-win-di-kuang_bg_5",
             "uuid": "50ba52a5-2c9d-4452-9845-8f85234c1e34",
             "textureUuid": "78914025-3927-4216-8896-8c291a1d7455",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376531_image_10.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349184_image_10.png",
             "trim": {
               "x": 331,
               "y": 3,
@@ -919,7 +919,7 @@
             "rawHeight": 246,
             "width": 363,
             "height": 241,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/78/78914025-3927-4216-8896-8c291a1d7455.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/78/78914025-3927-4216-8896-8c291a1d7455.png",
             "x": 328,
             "y": 0,
             "rotated": true,
@@ -930,7 +930,7 @@
             "name": "rewardButton",
             "uuid": "cda4dbbf-001d-45c7-b614-da44e03833ac",
             "textureUuid": "355701ff-831f-475e-bf1d-11d87e015a08",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376535_image_24.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_24.png",
             "trim": {
               "x": 3,
               "y": 458,
@@ -943,7 +943,7 @@
             "rawHeight": 248,
             "width": 571,
             "height": 233,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/35/355701ff-831f-475e-bf1d-11d87e015a08.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/35/355701ff-831f-475e-bf1d-11d87e015a08.png",
             "x": 0,
             "y": 455,
             "rotatedWidth": 571,
@@ -953,7 +953,7 @@
             "name": "kuang_2",
             "uuid": "71f5dbba-8062-406f-a429-2d1fce3b820c",
             "textureUuid": "409d4d16-ad8e-418e-87b5-27d785d5c2f3",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376532_image_13.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_13.png",
             "trim": {
               "x": 574,
               "y": 3,
@@ -966,7 +966,7 @@
             "rawHeight": 224,
             "width": 720,
             "height": 220,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/40/409d4d16-ad8e-418e-87b5-27d785d5c2f3.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/40/409d4d16-ad8e-418e-87b5-27d785d5c2f3.png",
             "x": 571,
             "y": 0,
             "rotated": true,
@@ -977,7 +977,7 @@
             "name": "kuang_3",
             "uuid": "d3a9e308-8fb6-42a6-85e8-55f3987d73dd",
             "textureUuid": "c8667549-a49b-41b4-b841-2263cbab8abe",
-            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376535_image_25.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_25.png",
             "trim": {
               "x": 3,
               "y": 723,
@@ -990,7 +990,7 @@
             "rawHeight": 246,
             "width": 720,
             "height": 231,
-            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/c8/c8667549-a49b-41b4-b841-2263cbab8abe.png",
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/c8/c8667549-a49b-41b4-b841-2263cbab8abe.png",
             "x": 0,
             "y": 720,
             "rotatedWidth": 720,
@@ -1000,12 +1000,12 @@
         "width": 791,
         "height": 951,
         "name": "altas-3",
-        "imagePath": "/Users/lifan/Downloads/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/altas-3.png",
+        "imagePath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/altas-3.png",
         "compressd": {
           "suffix": [
             ".png"
           ],
-          "imagePathNoExt": "/Users/lifan/Downloads/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/compressed/altas-3"
+          "imagePathNoExt": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/compressed/altas-3"
         }
       }
     ],
@@ -1014,7 +1014,7 @@
         "name": "qian-kuang",
         "uuid": "4a7afac9-5a55-41c8-a36e-d9b76fecc8de",
         "textureUuid": "d71e500b-2e70-41a5-ae32-866fce6be0b2",
-        "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1749035376531_image_8.png",
+        "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349184_image_8.png",
         "trim": {
           "x": 8,
           "y": 7,
@@ -1027,7 +1027,7 @@
         "rawHeight": 246,
         "width": 1054,
         "height": 239,
-        "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/d7/d71e500b-2e70-41a5-ae32-866fce6be0b2.png"
+        "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/d7/d71e500b-2e70-41a5-ae32-866fce6be0b2.png"
       }
     ]
   }

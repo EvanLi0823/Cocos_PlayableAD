@@ -157,7 +157,8 @@ var gameConfig = /** @class */ (function () {
                     string: "현금 인출",
                     fontSize: 32,
                 },
-                tipLbl: "최종 결과는 보장되지 않으며, 받을 수 있는 금액은 앱 또는 웹사이트에 게시된 규칙에 따릅니다.",
+                //tipLbl: "최종 결과는 보장되지 않으며, 받을 수 있는 금액은 앱 또는 웹사이트에 게시된 규칙에 따릅니다.",
+                tipLbl: "The final result is not guaranted, the amount you can obtain is subject to the rules published in the APP or web page.",
             },
             IN: {
                 guide: {
@@ -173,7 +174,8 @@ var gameConfig = /** @class */ (function () {
                     string: "Tarik Tunai",
                     fontSize: 30,
                 },
-                tipLbl: "Hasil akhir tidak dijamin, jumlah yang dapat Anda peroleh tergantung pada aturan yang diterbitkan di APLIKASI atau situs web.",
+                // tipLbl: "Hasil akhir tidak dijamin, jumlah yang dapat Anda peroleh tergantung pada aturan yang diterbitkan di APLIKASI atau situs web.",
+                tipLbl: "The final result is not guaranted, the amount you can obtain is subject to the rules published in the APP or web page.",
             },
             PT: {
                 guide: {
@@ -189,7 +191,8 @@ var gameConfig = /** @class */ (function () {
                     string: "Sacar",
                     fontSize: 32,
                 },
-                tipLbl: "O resultado final não é garantido, o valor que você pode obter está sujeito às regras publicadas no APP ou site.",
+                // tipLbl: "O resultado final não é garantido, o valor que você pode obter está sujeito às regras publicadas no APP ou site.",
+                tipLbl: "The final result is not guaranted, the amount you can obtain is subject to the rules published in the APP or web page.",
             },
             FIL: {
                 guide: {
@@ -205,7 +208,8 @@ var gameConfig = /** @class */ (function () {
                     string: "Cash Out",
                     fontSize: 32,
                 },
-                tipLbl: "Hindi garantisado ang pinal na resulta, at ang halagang makukuha mo ay nakaayon sa mga patakarang inilathala sa APP o website.",
+                // tipLbl: "Hindi garantisado ang pinal na resulta, at ang halagang makukuha mo ay nakaayon sa mga patakarang inilathala sa APP o website.",
+                tipLbl: "The final result is not guaranted, the amount you can obtain is subject to the rules published in the APP or web page.",
             },
             VN: {
                 guide: {
@@ -221,7 +225,8 @@ var gameConfig = /** @class */ (function () {
                     string: "Rút tiền",
                     fontSize: 32,
                 },
-                tipLbl: "Kết quả cuối cùng không được đảm bảo, số tiền bạn có thể nhận được phụ thuộc vào các quy tắc được công bố trên ỨNG DỤNG hoặc trang web.",
+                // tipLbl: "Kết quả cuối cùng không được đảm bảo, số tiền bạn có thể nhận được phụ thuộc vào các quy tắc được công bố trên ỨNG DỤNG hoặc trang web.",
+                tipLbl: "The final result is not guaranted, the amount you can obtain is subject to the rules published in the APP or web page.",
             },
             HI: {
                 guide: {
@@ -237,7 +242,8 @@ var gameConfig = /** @class */ (function () {
                     string: "कैश आउट",
                     fontSize: 32,
                 },
-                tipLbl: "अंतिम परिणाम की गारंटी नहीं है, आप जितनी राशि प्राप्त कर सकते हैं, वह APP या वेबसाइट पर प्रकाशित नियमों पर निर्भर करती है।",
+                // tipLbl: "अंतिम परिणाम की गारंटी नहीं है, आप जितनी राशि प्राप्त कर सकते हैं, वह APP या वेबसाइट पर प्रकाशित नियमों पर निर्भर करती है।",
+                tipLbl: "The final result is not guaranted, the amount you can obtain is subject to the rules published in the APP or web page.",
             },
             RU: {
                 guide: {
@@ -253,7 +259,8 @@ var gameConfig = /** @class */ (function () {
                     string: "Вывод средств",
                     fontSize: 21,
                 },
-                tipLbl: "Окончательный результат не гарантируется. Сумма, которую вы можете получить, зависит от правил, опубликованных в приложении или на сайте.",
+                // tipLbl: "Окончательный результат не гарантируется. Сумма, которую вы можете получить, зависит от правил, опубликованных в приложении или на сайте.",
+                tipLbl: "The final result is not guaranted, the amount you can obtain is subject to the rules published in the APP or web page.",
             }
         };
         var language = this.localLanguage;
@@ -418,7 +425,7 @@ var gameConfig = /** @class */ (function () {
     };
     Object.defineProperty(gameConfig, "getCountry", {
         get: function () {
-            return Country.EN;
+            return Country.VN;
         },
         enumerable: false,
         configurable: true
