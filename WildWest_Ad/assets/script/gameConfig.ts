@@ -2,6 +2,11 @@ import LocalAssetsManager from "./LocalAssetsManager";
 import localDataManager from "./localDataManager";
 import JsbSdkScript from "./PlatformInteraction/JsbSdkScript";
 
+export enum PlayableAdType {
+   AppLovin = "AppLovin",
+   Mtg = "Mtg",
+}
+
 export enum LanguageType {
    English  = "English",
    /**印尼语 */
@@ -418,9 +423,12 @@ export default class gameConfig {
 
 
    static get getCountry(){
-      return Country.VN;
+      return Country.BR;
    }
 
+   static get getPlayableAdType(){
+      return PlayableAdType.Mtg;
+   }
 
    static get localLanguage() {
       let country = this.getCountry

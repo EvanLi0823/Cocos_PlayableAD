@@ -1,5 +1,5 @@
 import aduioTools, {engineType} from "../aduioTools";
-import gameConfig, {JuiceItem, JuiceItemType, LanguageType} from "../gameConfig";
+import gameConfig, {JuiceItem, JuiceItemType, LanguageType,PlayableAdType} from "../gameConfig";
 import GuideScript from "../GuideScript";
 import LocalAssetsManager from "../LocalAssetsManager";
 
@@ -137,7 +137,7 @@ export default class GameManager extends cc.Component{
         anim.once(cc.Animation.EventType.FINISHED, () => {
             setTimeout(() => {
                 this.showTireSteak();
-            }, 200); 
+            }, 100); 
         }, this);
         anim.play()
     }
@@ -158,8 +158,10 @@ export default class GameManager extends cc.Component{
                 let anim = this.bigwinNode.getComponent(cc.Animation);
                 anim.once(cc.Animation.EventType.FINISHED, () => {
                     anim.play("bigwinidle");
-
-                    window.gameEnd&&window.gameEnd();
+                    if (gameConfig.getPlayableAdType === PlayableAdType.Mtg) {
+                        //mtg打开下面这行
+                        window.gameEnd&&window.gameEnd(); 
+                    }
                 }, this);
                 // 先播idle
                 anim.play("bigwin");
@@ -185,8 +187,9 @@ export default class GameManager extends cc.Component{
                 };
             }
         })
-
-        window.gameReady && window.gameReady();
+        if (gameConfig.getPlayableAdType === PlayableAdType.Mtg) {
+            window.gameReady && window.gameReady();
+        }
     }
 
     showAddReward() {

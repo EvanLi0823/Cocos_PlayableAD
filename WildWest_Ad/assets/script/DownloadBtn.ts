@@ -4,6 +4,7 @@
 //  - https://docs.cocos.com/creator/2.4/manual/en/scripting/reference/attributes.html
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/2.4/manual/en/scripting/life-cycle-callbacks.html
+import gameConfig, {PlayableAdType} from "./gameConfig";
 
 const {ccclass, property} = cc._decorator;
 
@@ -26,8 +27,13 @@ export default class DownloadBtn extends cc.Component {
 
     callback(){
         console.log("点击了")
-        window.install&&window.install();
-        // window.mraid && window.mraid.open('https://play.google.com/store/apps/details?id=com.candy.fantasy.slots.sweet.game');
+        //mtg打开下方这行
+        if (gameConfig.getPlayableAdType === PlayableAdType.Mtg) {
+            window.install&&window.install();
+        }else if (gameConfig.getPlayableAdType === PlayableAdType.AppLovin) {
+            //applovin打开下方这行
+            window.mraid && window.mraid.open('https://play.google.com/store/apps/details?id=com.zeus.gold.jackpot.slots');
+        }
     }
 }
 
