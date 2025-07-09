@@ -23,12 +23,12 @@
       "metaMtime": 1748937970636
     },
     "19d1bfd5-d055-4951-b32b-60522a4f6419": {
-      "assetMtime": 1748920335629,
-      "metaMtime": 1748920335655
+      "assetMtime": 1751881601455,
+      "metaMtime": 1751882748893
     },
     "e41621bd-08ed-4dc3-b1a4-34af1e79460c": {
-      "assetMtime": 1748920335629,
-      "metaMtime": 1748920335655
+      "assetMtime": 1751881601455,
+      "metaMtime": 1751882748893
     },
     "1bbcb4b6-0d22-42f1-9d01-e7b3ae2e52c8": {
       "assetMtime": 1749027559902,
@@ -37,14 +37,6 @@
     "7756d9d3-c7e2-4fc7-89de-41559aaad7d6": {
       "assetMtime": 1749027559902,
       "metaMtime": 1749027576394
-    },
-    "20e928e7-1cc8-4188-b549-06a561c3b486": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558927
-    },
-    "50de1ec0-f748-4c51-ad34-d6d933af768c": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558927
     },
     "26cec1ce-1953-40cd-b81d-22df58331809": {
       "assetMtime": 1748937970601,
@@ -55,28 +47,36 @@
       "metaMtime": 1748937970637
     },
     "27d45051-3552-4553-8130-cdcacee37557": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558926
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039056
     },
     "b400da7a-9522-4fc7-a2fc-e0e475c131f1": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558926
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039056
+    },
+    "2bfa547a-0e8e-4cae-a776-dc31883a50a3": {
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039090
+    },
+    "c35f7f14-838e-43f2-a92b-14fde07cc1dd": {
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039090
     },
     "3cde92f9-bdf3-458a-baa1-047127526d07": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558925
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039052
     },
     "3fde3b8f-0dba-4470-9137-153a64a48af3": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558925
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039052
     },
     "4a7afac9-5a55-41c8-a36e-d9b76fecc8de": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558932
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039053
     },
     "d71e500b-2e70-41a5-ae32-866fce6be0b2": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558932
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039053
     },
     "4b12f4c0-7963-4a2c-9479-45729f8d96b6": {
       "assetMtime": 1749027658309,
@@ -86,21 +86,13 @@
       "assetMtime": 1749027658309,
       "metaMtime": 1749027667392
     },
-    "50ba52a5-2c9d-4452-9845-8f85234c1e34": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558917
-    },
-    "78914025-3927-4216-8896-8c291a1d7455": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558917
-    },
     "691831fe-eb32-43a0-a921-bc7402724dbb": {
-      "assetMtime": 1748919337576,
-      "metaMtime": 1748919647748
+      "assetMtime": 1751881601463,
+      "metaMtime": 1751882699966
     },
     "abac6dcf-54d7-4edc-9b8a-dcf440382314": {
-      "assetMtime": 1748919337576,
-      "metaMtime": 1748919647748
+      "assetMtime": 1751881601463,
+      "metaMtime": 1751882699966
     },
     "6c482fe6-fe19-48d3-b9cc-72655a074e36": {
       "assetMtime": 1748921023282,
@@ -111,12 +103,12 @@
       "metaMtime": 1748921023317
     },
     "71f5dbba-8062-406f-a429-2d1fce3b820c": {
-      "assetMtime": 1748930726583,
-      "metaMtime": 1748930726601
+      "assetMtime": 1751881601465,
+      "metaMtime": 1751882699964
     },
     "409d4d16-ad8e-418e-87b5-27d785d5c2f3": {
-      "assetMtime": 1748930726583,
-      "metaMtime": 1748930726601
+      "assetMtime": 1751881601465,
+      "metaMtime": 1751882699964
     },
     "8abddbdf-87c4-4822-9d0c-1c9b9ccacf4a": {
       "assetMtime": 1737594588000,
@@ -125,6 +117,14 @@
     "e1efcf58-e009-498d-8cf4-ab01227d32b5": {
       "assetMtime": 1737594588000,
       "metaMtime": 1748918095759
+    },
+    "8b358edd-80bd-49c4-ac36-aa87d9696117": {
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039049
+    },
+    "a71c981b-1c96-42d4-b43a-1c258da6053d": {
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039049
     },
     "9925fbb8-2328-410c-8db7-58f4afe5dc00": {
       "assetMtime": 1749027466983,
@@ -167,12 +167,12 @@
       "metaMtime": 1748937970635
     },
     "b25481a3-36b5-4ec7-a290-e47a1d41ea28": {
-      "assetMtime": 1748930726582,
-      "metaMtime": 1748930726603
+      "assetMtime": 1751881601464,
+      "metaMtime": 1751882699958
     },
     "e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d": {
-      "assetMtime": 1748930726582,
-      "metaMtime": 1748930726603
+      "assetMtime": 1751881601464,
+      "metaMtime": 1751882699958
     },
     "b5eaada8-5706-4ee5-ab9b-1a2cc1648028": {
       "assetMtime": 1748926738000,
@@ -183,12 +183,12 @@
       "metaMtime": 1748955558930
     },
     "b7345e13-ffcd-4509-ae8d-489cd9ffa8f4": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558923
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039074
     },
     "2c5e5839-caa6-4029-aecd-d6fd1f368f82": {
-      "assetMtime": 1748926738000,
-      "metaMtime": 1748955558923
+      "assetMtime": 1751857920000,
+      "metaMtime": 1751887039074
     },
     "c416154b-6607-4648-9beb-4b04c1edb0cd": {
       "assetMtime": 1749027632021,
@@ -207,12 +207,20 @@
       "metaMtime": 1748921347164
     },
     "d3a9e308-8fb6-42a6-85e8-55f3987d73dd": {
-      "assetMtime": 1748948859970,
-      "metaMtime": 1749035342935
+      "assetMtime": 1751881601466,
+      "metaMtime": 1751882699962
     },
     "c8667549-a49b-41b4-b841-2263cbab8abe": {
-      "assetMtime": 1748948859970,
-      "metaMtime": 1749035342935
+      "assetMtime": 1751881601466,
+      "metaMtime": 1751882699962
+    },
+    "e1bc31b7-0cac-42ba-8b09-71bc135dd2f1": {
+      "assetMtime": 1751888127431,
+      "metaMtime": 1751888127461
+    },
+    "3832749c-f28f-49b5-b5ae-938936342c5c": {
+      "assetMtime": 1751888127431,
+      "metaMtime": 1751888127461
     },
     "e3107d61-1961-4345-8bcc-61962ee3d19b": {
       "assetMtime": 1748932176392,
@@ -249,8 +257,8 @@
   },
   "result": {
     "name": "altas-3",
-    "width": 791,
-    "height": 951,
+    "width": 929,
+    "height": 566,
     "ver": "1.2.5",
     "uuid": "e2800f2d-f2c5-4bcd-971c-df59a373b024",
     "importer": "auto-atlas",
@@ -286,10 +294,211 @@
       {
         "files": [
           {
+            "name": "qian-kuang",
+            "uuid": "4a7afac9-5a55-41c8-a36e-d9b76fecc8de",
+            "textureUuid": "d71e500b-2e70-41a5-ae32-866fce6be0b2",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560777_image_8.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 990,
+              "height": 184,
+              "rotatedWidth": 990,
+              "rotatedHeight": 184
+            },
+            "rawWidth": 1000,
+            "rawHeight": 190,
+            "width": 996,
+            "height": 190,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/d7/d71e500b-2e70-41a5-ae32-866fce6be0b2.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 996,
+            "rotatedHeight": 190
+          },
+          {
+            "name": "biao_ti",
+            "uuid": "19d1bfd5-d055-4951-b32b-60522a4f6419",
+            "textureUuid": "e41621bd-08ed-4dc3-b1a4-34af1e79460c",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560775_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 193,
+              "width": 789,
+              "height": 296,
+              "rotatedWidth": 296,
+              "rotatedHeight": 789
+            },
+            "rawWidth": 810,
+            "rawHeight": 316,
+            "width": 795,
+            "height": 302,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/e4/e41621bd-08ed-4dc3-b1a4-34af1e79460c.png",
+            "x": 0,
+            "y": 190,
+            "rotated": true,
+            "rotatedWidth": 302,
+            "rotatedHeight": 795
+          },
+          {
+            "name": "kuang_3",
+            "uuid": "d3a9e308-8fb6-42a6-85e8-55f3987d73dd",
+            "textureUuid": "c8667549-a49b-41b4-b841-2263cbab8abe",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560801_image_25.png",
+            "trim": {
+              "x": 305,
+              "y": 193,
+              "width": 714,
+              "height": 221,
+              "rotatedWidth": 714,
+              "rotatedHeight": 221
+            },
+            "rawWidth": 734,
+            "rawHeight": 242,
+            "width": 720,
+            "height": 227,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/c8/c8667549-a49b-41b4-b841-2263cbab8abe.png",
+            "x": 302,
+            "y": 190,
+            "rotatedWidth": 720,
+            "rotatedHeight": 227
+          },
+          {
+            "name": "kuang_2",
+            "uuid": "71f5dbba-8062-406f-a429-2d1fce3b820c",
+            "textureUuid": "409d4d16-ad8e-418e-87b5-27d785d5c2f3",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560779_image_12.png",
+            "trim": {
+              "x": 305,
+              "y": 420,
+              "width": 714,
+              "height": 206,
+              "rotatedWidth": 714,
+              "rotatedHeight": 206
+            },
+            "rawWidth": 734,
+            "rawHeight": 226,
+            "width": 720,
+            "height": 212,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/40/409d4d16-ad8e-418e-87b5-27d785d5c2f3.png",
+            "x": 302,
+            "y": 417,
+            "rotatedWidth": 720,
+            "rotatedHeight": 212
+          },
+          {
+            "name": "kuang_1",
+            "uuid": "b25481a3-36b5-4ec7-a290-e47a1d41ea28",
+            "textureUuid": "e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560795_image_20.png",
+            "trim": {
+              "x": 305,
+              "y": 632,
+              "width": 687,
+              "height": 157,
+              "rotatedWidth": 687,
+              "rotatedHeight": 157
+            },
+            "rawWidth": 708,
+            "rawHeight": 178,
+            "width": 693,
+            "height": 163,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/e8/e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d.png",
+            "x": 302,
+            "y": 629,
+            "rotatedWidth": 693,
+            "rotatedHeight": 163
+          },
+          {
+            "name": "ic_dana",
+            "uuid": "9925fbb8-2328-410c-8db7-58f4afe5dc00",
+            "textureUuid": "a240e27c-e349-4627-a170-0a5f95a2ced6",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560790_image_15.png",
+            "trim": {
+              "x": 305,
+              "y": 795,
+              "width": 184,
+              "height": 73,
+              "rotatedWidth": 73,
+              "rotatedHeight": 184
+            },
+            "rawWidth": 184,
+            "rawHeight": 73,
+            "width": 190,
+            "height": 79,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/a2/a240e27c-e349-4627-a170-0a5f95a2ced6.png",
+            "x": 302,
+            "y": 792,
+            "rotated": true,
+            "rotatedWidth": 79,
+            "rotatedHeight": 190
+          },
+          {
+            "name": "ic_paypal",
+            "uuid": "e3107d61-1961-4345-8bcc-61962ee3d19b",
+            "textureUuid": "657101ec-2ee0-4861-a3c9-480d97dc02d6",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560809_image_27.png",
+            "trim": {
+              "x": 384,
+              "y": 795,
+              "width": 184,
+              "height": 73,
+              "rotatedWidth": 73,
+              "rotatedHeight": 184
+            },
+            "rawWidth": 184,
+            "rawHeight": 73,
+            "width": 190,
+            "height": 79,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/65/657101ec-2ee0-4861-a3c9-480d97dc02d6.png",
+            "x": 381,
+            "y": 792,
+            "rotated": true,
+            "rotatedWidth": 79,
+            "rotatedHeight": 190
+          },
+          {
+            "name": "claim2_button_bg",
+            "uuid": "8b358edd-80bd-49c4-ac36-aa87d9696117",
+            "textureUuid": "a71c981b-1c96-42d4-b43a-1c258da6053d",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560782_image_14.png",
+            "trim": {
+              "x": 463,
+              "y": 795,
+              "width": 522,
+              "height": 178,
+              "rotatedWidth": 522,
+              "rotatedHeight": 178
+            },
+            "rawWidth": 530,
+            "rawHeight": 186,
+            "width": 528,
+            "height": 184,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/a7/a71c981b-1c96-42d4-b43a-1c258da6053d.png",
+            "x": 460,
+            "y": 792,
+            "rotatedWidth": 528,
+            "rotatedHeight": 184
+          }
+        ],
+        "width": 1022,
+        "height": 985,
+        "name": "altas-1",
+        "imagePath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/altas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/compressed/altas-1"
+        }
+      },
+      {
+        "files": [
+          {
             "name": "light",
             "uuid": "6c482fe6-fe19-48d3-b9cc-72655a074e36",
             "textureUuid": "8104a9f8-56e8-40e2-81a5-107d26530a2c",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_12.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560779_image_11.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -309,190 +518,37 @@
             "rotatedHeight": 726
           },
           {
-            "name": "big",
-            "uuid": "3cde92f9-bdf3-458a-baa1-047127526d07",
-            "textureUuid": "3fde3b8f-0dba-4470-9137-153a64a48af3",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349183_image_7.png",
+            "name": "rewardButton",
+            "uuid": "cda4dbbf-001d-45c7-b614-da44e03833ac",
+            "textureUuid": "355701ff-831f-475e-bf1d-11d87e015a08",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560799_image_24.png",
             "trim": {
               "x": 769,
               "y": 3,
-              "width": 795,
-              "height": 248,
-              "rotatedWidth": 248,
-              "rotatedHeight": 795
+              "width": 565,
+              "height": 227,
+              "rotatedWidth": 227,
+              "rotatedHeight": 565
             },
-            "rawWidth": 1016,
-            "rawHeight": 318,
-            "width": 801,
-            "height": 254,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/3f/3fde3b8f-0dba-4470-9137-153a64a48af3.png",
+            "rawWidth": 586,
+            "rawHeight": 248,
+            "width": 571,
+            "height": 233,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/35/355701ff-831f-475e-bf1d-11d87e015a08.png",
             "x": 766,
             "y": 0,
             "rotated": true,
-            "rotatedWidth": 254,
-            "rotatedHeight": 801
-          },
-          {
-            "name": "biao_ti",
-            "uuid": "19d1bfd5-d055-4951-b32b-60522a4f6419",
-            "textureUuid": "e41621bd-08ed-4dc3-b1a4-34af1e79460c",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349181_image_2.png",
-            "trim": {
-              "x": 3,
-              "y": 729,
-              "width": 714,
-              "height": 262,
-              "rotatedWidth": 714,
-              "rotatedHeight": 262
-            },
-            "rawWidth": 736,
-            "rawHeight": 282,
-            "width": 720,
-            "height": 268,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/e4/e41621bd-08ed-4dc3-b1a4-34af1e79460c.png",
-            "x": 0,
-            "y": 726,
-            "rotatedWidth": 720,
-            "rotatedHeight": 268
-          },
-          {
-            "name": "big-win-di-kuang_bg_4",
-            "uuid": "20e928e7-1cc8-4188-b549-06a561c3b486",
-            "textureUuid": "50de1ec0-f748-4c51-ad34-d6d933af768c",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349182_image_4.png",
-            "trim": {
-              "x": 723,
-              "y": 804,
-              "width": 139,
-              "height": 216,
-              "rotatedWidth": 139,
-              "rotatedHeight": 216
-            },
-            "rawWidth": 160,
-            "rawHeight": 226,
-            "width": 145,
-            "height": 222,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/50/50de1ec0-f748-4c51-ad34-d6d933af768c.png",
-            "x": 720,
-            "y": 801,
-            "rotatedWidth": 145,
-            "rotatedHeight": 222
-          },
-          {
-            "name": "remindhand",
-            "uuid": "9fc70cd2-26a7-4aa9-b346-86d3a1bf7c4d",
-            "textureUuid": "8a28a65c-570b-47fa-9a5f-0f9836bf6039",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_16.png",
-            "trim": {
-              "x": 868,
-              "y": 804,
-              "width": 145,
-              "height": 172,
-              "rotatedWidth": 145,
-              "rotatedHeight": 172
-            },
-            "rawWidth": 146,
-            "rawHeight": 173,
-            "width": 151,
-            "height": 178,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/8a/8a28a65c-570b-47fa-9a5f-0f9836bf6039.png",
-            "x": 865,
-            "y": 801,
-            "rotatedWidth": 151,
-            "rotatedHeight": 178
-          }
-        ],
-        "width": 1020,
-        "height": 1023,
-        "name": "altas-1",
-        "imagePath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/altas-1.png",
-        "compressd": {
-          "suffix": [
-            ".png"
-          ],
-          "imagePathNoExt": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/compressed/altas-1"
-        }
-      },
-      {
-        "files": [
-          {
-            "name": "icon",
-            "uuid": "691831fe-eb32-43a0-a921-bc7402724dbb",
-            "textureUuid": "abac6dcf-54d7-4edc-9b8a-dcf440382314",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_11.png",
-            "trim": {
-              "x": 3,
-              "y": 3,
-              "width": 486,
-              "height": 485,
-              "rotatedWidth": 486,
-              "rotatedHeight": 485
-            },
-            "rawWidth": 506,
-            "rawHeight": 506,
-            "width": 492,
-            "height": 491,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/ab/abac6dcf-54d7-4edc-9b8a-dcf440382314.png",
-            "x": 0,
-            "y": 0,
-            "rotatedWidth": 492,
-            "rotatedHeight": 491
-          },
-          {
-            "name": "big-win-di-kuang_bg_1",
-            "uuid": "27d45051-3552-4553-8130-cdcacee37557",
-            "textureUuid": "b400da7a-9522-4fc7-a2fc-e0e475c131f1",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349183_image_6.png",
-            "trim": {
-              "x": 495,
-              "y": 3,
-              "width": 930,
-              "height": 326,
-              "rotatedWidth": 326,
-              "rotatedHeight": 930
-            },
-            "rawWidth": 940,
-            "rawHeight": 335,
-            "width": 936,
-            "height": 332,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/b4/b400da7a-9522-4fc7-a2fc-e0e475c131f1.png",
-            "x": 492,
-            "y": 0,
-            "rotated": true,
-            "rotatedWidth": 332,
-            "rotatedHeight": 936
-          },
-          {
-            "name": "big-win-di-kuang_bg_3",
-            "uuid": "b7345e13-ffcd-4509-ae8d-489cd9ffa8f4",
-            "textureUuid": "2c5e5839-caa6-4029-aecd-d6fd1f368f82",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_22.png",
-            "trim": {
-              "x": 3,
-              "y": 494,
-              "width": 303,
-              "height": 509,
-              "rotatedWidth": 303,
-              "rotatedHeight": 509
-            },
-            "rawWidth": 309,
-            "rawHeight": 516,
-            "width": 309,
-            "height": 515,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/2c/2c5e5839-caa6-4029-aecd-d6fd1f368f82.png",
-            "x": 0,
-            "y": 491,
-            "rotatedWidth": 309,
-            "rotatedHeight": 515
+            "rotatedWidth": 233,
+            "rotatedHeight": 571
           },
           {
             "name": "spin",
             "uuid": "8abddbdf-87c4-4822-9d0c-1c9b9ccacf4a",
             "textureUuid": "e1efcf58-e009-498d-8cf4-ab01227d32b5",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_14.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560780_image_13.png",
             "trim": {
-              "x": 312,
-              "y": 494,
+              "x": 769,
+              "y": 574,
               "width": 344,
               "height": 148,
               "rotatedWidth": 148,
@@ -503,91 +559,20 @@
             "width": 350,
             "height": 154,
             "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/e1/e1efcf58-e009-498d-8cf4-ab01227d32b5.png",
-            "x": 309,
-            "y": 491,
+            "x": 766,
+            "y": 571,
             "rotated": true,
             "rotatedWidth": 154,
             "rotatedHeight": 350
           },
           {
-            "name": "qian",
-            "uuid": "b5eaada8-5706-4ee5-ab9b-1a2cc1648028",
-            "textureUuid": "dff262e8-82b7-4de0-a9dc-4df1660e49b2",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_21.png",
+            "name": "ic_gcash",
+            "uuid": "f932343f-57e7-4e1a-a57e-0e842b6a1a4b",
+            "textureUuid": "2d2fb7eb-0315-4262-baaa-a2a3688f6d0d",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560812_image_30.png",
             "trim": {
-              "x": 312,
-              "y": 844,
-              "width": 164,
-              "height": 117,
-              "rotatedWidth": 164,
-              "rotatedHeight": 117
-            },
-            "rawWidth": 176,
-            "rawHeight": 126,
-            "width": 170,
-            "height": 123,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/df/dff262e8-82b7-4de0-a9dc-4df1660e49b2.png",
-            "x": 309,
-            "y": 841,
-            "rotatedWidth": 170,
-            "rotatedHeight": 123
-          },
-          {
-            "name": "kuang_1",
-            "uuid": "b25481a3-36b5-4ec7-a290-e47a1d41ea28",
-            "textureUuid": "e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_20.png",
-            "trim": {
-              "x": 827,
-              "y": 3,
-              "width": 687,
-              "height": 157,
-              "rotatedWidth": 157,
-              "rotatedHeight": 687
-            },
-            "rawWidth": 708,
-            "rawHeight": 178,
-            "width": 693,
-            "height": 163,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/e8/e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d.png",
-            "x": 824,
-            "y": 0,
-            "rotated": true,
-            "rotatedWidth": 163,
-            "rotatedHeight": 693
-          },
-          {
-            "name": "spin",
-            "uuid": "e5094714-dece-45a4-a39c-e9e21081724f",
-            "textureUuid": "7c939b1a-2a9c-4d4f-8fb6-2b80f6cbd46d",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349187_image_27.png",
-            "trim": {
-              "x": 827,
-              "y": 696,
-              "width": 281,
-              "height": 103,
-              "rotatedWidth": 103,
-              "rotatedHeight": 281
-            },
-            "rawWidth": 302,
-            "rawHeight": 124,
-            "width": 287,
-            "height": 109,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/7c/7c939b1a-2a9c-4d4f-8fb6-2b80f6cbd46d.png",
-            "x": 824,
-            "y": 693,
-            "rotated": true,
-            "rotatedWidth": 109,
-            "rotatedHeight": 287
-          },
-          {
-            "name": "ic_dana",
-            "uuid": "9925fbb8-2328-410c-8db7-58f4afe5dc00",
-            "textureUuid": "a240e27c-e349-4627-a170-0a5f95a2ced6",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_15.png",
-            "trim": {
-              "x": 936,
-              "y": 696,
+              "x": 923,
+              "y": 574,
               "width": 184,
               "height": 73,
               "rotatedWidth": 73,
@@ -597,68 +582,183 @@
             "rawHeight": 73,
             "width": 190,
             "height": 79,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/a2/a240e27c-e349-4627-a170-0a5f95a2ced6.png",
-            "x": 933,
-            "y": 693,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/2d/2d2fb7eb-0315-4262-baaa-a2a3688f6d0d.png",
+            "x": 920,
+            "y": 571,
             "rotated": true,
             "rotatedWidth": 79,
             "rotatedHeight": 190
           },
           {
+            "name": "cash_out2",
+            "uuid": "a12ebeb3-18d2-424c-899f-7cf043638e23",
+            "textureUuid": "7c2f1812-2211-47a1-ba40-03d5a98c1c7d",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560792_image_17.png",
+            "trim": {
+              "x": 923,
+              "y": 764,
+              "width": 181,
+              "height": 74,
+              "rotatedWidth": 74,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 202,
+            "rawHeight": 94,
+            "width": 187,
+            "height": 80,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/7c/7c2f1812-2211-47a1-ba40-03d5a98c1c7d.png",
+            "x": 920,
+            "y": 761,
+            "rotated": true,
+            "rotatedWidth": 80,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "ic_webmoney",
+            "uuid": "1bbcb4b6-0d22-42f1-9d01-e7b3ae2e52c8",
+            "textureUuid": "7756d9d3-c7e2-4fc7-89de-41559aaad7d6",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560775_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 924,
+              "width": 183,
+              "height": 73,
+              "rotatedWidth": 183,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 183,
+            "rawHeight": 73,
+            "width": 189,
+            "height": 79,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/77/7756d9d3-c7e2-4fc7-89de-41559aaad7d6.png",
+            "x": 0,
+            "y": 921,
+            "rotatedWidth": 189,
+            "rotatedHeight": 79
+          },
+          {
+            "name": "ic_paytm",
+            "uuid": "4b12f4c0-7963-4a2c-9479-45729f8d96b6",
+            "textureUuid": "7fa28b23-605c-4bf2-aec0-e1b327b76078",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560777_image_9.png",
+            "trim": {
+              "x": 192,
+              "y": 924,
+              "width": 183,
+              "height": 73,
+              "rotatedWidth": 183,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 183,
+            "rawHeight": 73,
+            "width": 189,
+            "height": 79,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/7f/7fa28b23-605c-4bf2-aec0-e1b327b76078.png",
+            "x": 189,
+            "y": 921,
+            "rotatedWidth": 189,
+            "rotatedHeight": 79
+          },
+          {
+            "name": "ic_pagBank",
+            "uuid": "a84925e8-8955-4e80-9bf0-af05a6604f1b",
+            "textureUuid": "636217dd-a6d6-4da6-86c4-f9027821ccdd",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560793_image_18.png",
+            "trim": {
+              "x": 381,
+              "y": 924,
+              "width": 183,
+              "height": 73,
+              "rotatedWidth": 183,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 183,
+            "rawHeight": 73,
+            "width": 189,
+            "height": 79,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/63/636217dd-a6d6-4da6-86c4-f9027821ccdd.png",
+            "x": 378,
+            "y": 921,
+            "rotatedWidth": 189,
+            "rotatedHeight": 79
+          },
+          {
+            "name": "ic_momo",
+            "uuid": "c416154b-6607-4648-9beb-4b04c1edb0cd",
+            "textureUuid": "090aca1a-e0c3-4541-a2d0-1db623d96f69",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560798_image_23.png",
+            "trim": {
+              "x": 570,
+              "y": 924,
+              "width": 183,
+              "height": 73,
+              "rotatedWidth": 183,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 184,
+            "rawHeight": 73,
+            "width": 189,
+            "height": 79,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/09/090aca1a-e0c3-4541-a2d0-1db623d96f69.png",
+            "x": 567,
+            "y": 921,
+            "rotatedWidth": 189,
+            "rotatedHeight": 79
+          },
+          {
             "name": "redbagfly",
             "uuid": "16e57034-f0d4-4675-9acd-0aebe46f8060",
             "textureUuid": "ec5e6f4e-672b-4373-b94c-ab6757d1f603",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349176_image_0.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560774_image_0.png",
             "trim": {
-              "x": 936,
-              "y": 886,
+              "x": 759,
+              "y": 924,
               "width": 98,
               "height": 79,
-              "rotatedWidth": 79,
-              "rotatedHeight": 98
+              "rotatedWidth": 98,
+              "rotatedHeight": 79
             },
             "rawWidth": 104,
             "rawHeight": 84,
             "width": 104,
             "height": 85,
             "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/ec/ec5e6f4e-672b-4373-b94c-ab6757d1f603.png",
-            "x": 933,
-            "y": 883,
-            "rotated": true,
-            "rotatedWidth": 85,
-            "rotatedHeight": 104
+            "x": 756,
+            "y": 921,
+            "rotatedWidth": 104,
+            "rotatedHeight": 85
           },
           {
-            "name": "ic_paypal",
-            "uuid": "e3107d61-1961-4345-8bcc-61962ee3d19b",
-            "textureUuid": "657101ec-2ee0-4861-a3c9-480d97dc02d6",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349187_image_26.png",
+            "name": "spin",
+            "uuid": "e5094714-dece-45a4-a39c-e9e21081724f",
+            "textureUuid": "7c939b1a-2a9c-4d4f-8fb6-2b80f6cbd46d",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560810_image_28.png",
             "trim": {
-              "x": 482,
-              "y": 939,
-              "width": 184,
-              "height": 73,
-              "rotatedWidth": 184,
-              "rotatedHeight": 73
+              "x": 3,
+              "y": 729,
+              "width": 281,
+              "height": 103,
+              "rotatedWidth": 281,
+              "rotatedHeight": 103
             },
-            "rawWidth": 184,
-            "rawHeight": 73,
-            "width": 190,
-            "height": 79,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/65/657101ec-2ee0-4861-a3c9-480d97dc02d6.png",
-            "x": 479,
-            "y": 936,
-            "rotatedWidth": 190,
-            "rotatedHeight": 79
+            "rawWidth": 302,
+            "rawHeight": 124,
+            "width": 287,
+            "height": 109,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/7c/7c939b1a-2a9c-4d4f-8fb6-2b80f6cbd46d.png",
+            "x": 0,
+            "y": 726,
+            "rotatedWidth": 287,
+            "rotatedHeight": 109
           },
           {
             "name": "redbagflypt",
             "uuid": "187486e8-c463-4eb2-bee8-962741e540b9",
             "textureUuid": "bb871069-ec44-4a3b-a367-25ba4d456360",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349181_image_1.png",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560775_image_1.png",
             "trim": {
-              "x": 672,
-              "y": 939,
+              "x": 3,
+              "y": 838,
               "width": 98,
               "height": 79,
               "rotatedWidth": 98,
@@ -669,14 +769,131 @@
             "width": 104,
             "height": 85,
             "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/bb/bb871069-ec44-4a3b-a367-25ba4d456360.png",
-            "x": 669,
-            "y": 936,
+            "x": 0,
+            "y": 835,
             "rotatedWidth": 104,
             "rotatedHeight": 85
+          },
+          {
+            "name": "redbagflyKR",
+            "uuid": "26cec1ce-1953-40cd-b81d-22df58331809",
+            "textureUuid": "bc07f27c-b10f-43bb-821d-b2987b5a7443",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560775_image_4.png",
+            "trim": {
+              "x": 107,
+              "y": 838,
+              "width": 98,
+              "height": 79,
+              "rotatedWidth": 98,
+              "rotatedHeight": 79
+            },
+            "rawWidth": 104,
+            "rawHeight": 84,
+            "width": 104,
+            "height": 85,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/bc/bc07f27c-b10f-43bb-821d-b2987b5a7443.png",
+            "x": 104,
+            "y": 835,
+            "rotatedWidth": 104,
+            "rotatedHeight": 85
+          },
+          {
+            "name": "redbagflyID",
+            "uuid": "accba50a-1456-4164-bcdc-c63344e99dd7",
+            "textureUuid": "04928ed6-9915-4708-b77e-feb10503c58d",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560795_image_19.png",
+            "trim": {
+              "x": 211,
+              "y": 838,
+              "width": 98,
+              "height": 79,
+              "rotatedWidth": 98,
+              "rotatedHeight": 79
+            },
+            "rawWidth": 104,
+            "rawHeight": 84,
+            "width": 104,
+            "height": 85,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/04/04928ed6-9915-4708-b77e-feb10503c58d.png",
+            "x": 208,
+            "y": 835,
+            "rotatedWidth": 104,
+            "rotatedHeight": 85
+          },
+          {
+            "name": "redbagflyPK",
+            "uuid": "ee1a8f96-e486-4cba-bdb4-2e23bc4d04a3",
+            "textureUuid": "a0d8ab75-6439-464b-bdf8-e15eb2ea205e",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560811_image_29.png",
+            "trim": {
+              "x": 290,
+              "y": 729,
+              "width": 98,
+              "height": 79,
+              "rotatedWidth": 79,
+              "rotatedHeight": 98
+            },
+            "rawWidth": 104,
+            "rawHeight": 84,
+            "width": 104,
+            "height": 85,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/a0/a0d8ab75-6439-464b-bdf8-e15eb2ea205e.png",
+            "x": 287,
+            "y": 726,
+            "rotated": true,
+            "rotatedWidth": 85,
+            "rotatedHeight": 104
+          },
+          {
+            "name": "remindhand",
+            "uuid": "9fc70cd2-26a7-4aa9-b346-86d3a1bf7c4d",
+            "textureUuid": "8a28a65c-570b-47fa-9a5f-0f9836bf6039",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560791_image_16.png",
+            "trim": {
+              "x": 375,
+              "y": 729,
+              "width": 145,
+              "height": 172,
+              "rotatedWidth": 145,
+              "rotatedHeight": 172
+            },
+            "rawWidth": 146,
+            "rawHeight": 173,
+            "width": 151,
+            "height": 178,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/8a/8a28a65c-570b-47fa-9a5f-0f9836bf6039.png",
+            "x": 372,
+            "y": 726,
+            "rotatedWidth": 151,
+            "rotatedHeight": 178
+          },
+          {
+            "name": "qian",
+            "uuid": "b5eaada8-5706-4ee5-ab9b-1a2cc1648028",
+            "textureUuid": "dff262e8-82b7-4de0-a9dc-4df1660e49b2",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560796_image_21.png",
+            "trim": {
+              "x": 526,
+              "y": 729,
+              "width": 164,
+              "height": 117,
+              "rotatedWidth": 117,
+              "rotatedHeight": 164
+            },
+            "rawWidth": 176,
+            "rawHeight": 126,
+            "width": 170,
+            "height": 123,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/df/dff262e8-82b7-4de0-a9dc-4df1660e49b2.png",
+            "x": 523,
+            "y": 726,
+            "rotated": true,
+            "rotatedWidth": 123,
+            "rotatedHeight": 170
           }
         ],
-        "width": 1018,
-        "height": 1021,
+        "width": 1000,
+        "height": 1006,
         "name": "altas-2",
         "imagePath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/altas-2.png",
         "compressd": {
@@ -689,316 +906,55 @@
       {
         "files": [
           {
-            "name": "redbagflyKR",
-            "uuid": "26cec1ce-1953-40cd-b81d-22df58331809",
-            "textureUuid": "bc07f27c-b10f-43bb-821d-b2987b5a7443",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349182_image_5.png",
+            "name": "icon",
+            "uuid": "691831fe-eb32-43a0-a921-bc7402724dbb",
+            "textureUuid": "abac6dcf-54d7-4edc-9b8a-dcf440382314",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560777_image_10.png",
             "trim": {
               "x": 3,
               "y": 3,
-              "width": 98,
-              "height": 79,
-              "rotatedWidth": 79,
-              "rotatedHeight": 98
+              "width": 561,
+              "height": 560,
+              "rotatedWidth": 561,
+              "rotatedHeight": 560
             },
-            "rawWidth": 104,
-            "rawHeight": 84,
-            "width": 104,
-            "height": 85,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/bc/bc07f27c-b10f-43bb-821d-b2987b5a7443.png",
+            "rawWidth": 580,
+            "rawHeight": 580,
+            "width": 567,
+            "height": 566,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/ab/abac6dcf-54d7-4edc-9b8a-dcf440382314.png",
             "x": 0,
             "y": 0,
-            "rotated": true,
-            "rotatedWidth": 85,
-            "rotatedHeight": 104
+            "rotatedWidth": 567,
+            "rotatedHeight": 566
           },
           {
-            "name": "redbagflyID",
-            "uuid": "accba50a-1456-4164-bcdc-c63344e99dd7",
-            "textureUuid": "04928ed6-9915-4708-b77e-feb10503c58d",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_19.png",
+            "name": "big",
+            "uuid": "3cde92f9-bdf3-458a-baa1-047127526d07",
+            "textureUuid": "3fde3b8f-0dba-4470-9137-153a64a48af3",
+            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560776_image_7.png",
             "trim": {
-              "x": 88,
+              "x": 570,
               "y": 3,
-              "width": 98,
-              "height": 79,
-              "rotatedWidth": 79,
-              "rotatedHeight": 98
+              "width": 430,
+              "height": 356,
+              "rotatedWidth": 356,
+              "rotatedHeight": 430
             },
-            "rawWidth": 104,
-            "rawHeight": 84,
-            "width": 104,
-            "height": 85,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/04/04928ed6-9915-4708-b77e-feb10503c58d.png",
-            "x": 85,
+            "rawWidth": 446,
+            "rawHeight": 368,
+            "width": 436,
+            "height": 362,
+            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/3f/3fde3b8f-0dba-4470-9137-153a64a48af3.png",
+            "x": 567,
             "y": 0,
             "rotated": true,
-            "rotatedWidth": 85,
-            "rotatedHeight": 104
-          },
-          {
-            "name": "redbagflyPK",
-            "uuid": "ee1a8f96-e486-4cba-bdb4-2e23bc4d04a3",
-            "textureUuid": "a0d8ab75-6439-464b-bdf8-e15eb2ea205e",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349187_image_28.png",
-            "trim": {
-              "x": 3,
-              "y": 107,
-              "width": 98,
-              "height": 79,
-              "rotatedWidth": 79,
-              "rotatedHeight": 98
-            },
-            "rawWidth": 104,
-            "rawHeight": 84,
-            "width": 104,
-            "height": 85,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/a0/a0d8ab75-6439-464b-bdf8-e15eb2ea205e.png",
-            "x": 0,
-            "y": 104,
-            "rotated": true,
-            "rotatedWidth": 85,
-            "rotatedHeight": 104
-          },
-          {
-            "name": "ic_webmoney",
-            "uuid": "1bbcb4b6-0d22-42f1-9d01-e7b3ae2e52c8",
-            "textureUuid": "7756d9d3-c7e2-4fc7-89de-41559aaad7d6",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349181_image_3.png",
-            "trim": {
-              "x": 88,
-              "y": 107,
-              "width": 183,
-              "height": 73,
-              "rotatedWidth": 73,
-              "rotatedHeight": 183
-            },
-            "rawWidth": 183,
-            "rawHeight": 73,
-            "width": 189,
-            "height": 79,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/77/7756d9d3-c7e2-4fc7-89de-41559aaad7d6.png",
-            "x": 85,
-            "y": 104,
-            "rotated": true,
-            "rotatedWidth": 79,
-            "rotatedHeight": 189
-          },
-          {
-            "name": "ic_paytm",
-            "uuid": "4b12f4c0-7963-4a2c-9479-45729f8d96b6",
-            "textureUuid": "7fa28b23-605c-4bf2-aec0-e1b327b76078",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349184_image_9.png",
-            "trim": {
-              "x": 173,
-              "y": 3,
-              "width": 183,
-              "height": 73,
-              "rotatedWidth": 73,
-              "rotatedHeight": 183
-            },
-            "rawWidth": 183,
-            "rawHeight": 73,
-            "width": 189,
-            "height": 79,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/7f/7fa28b23-605c-4bf2-aec0-e1b327b76078.png",
-            "x": 170,
-            "y": 0,
-            "rotated": true,
-            "rotatedWidth": 79,
-            "rotatedHeight": 189
-          },
-          {
-            "name": "ic_pagBank",
-            "uuid": "a84925e8-8955-4e80-9bf0-af05a6604f1b",
-            "textureUuid": "636217dd-a6d6-4da6-86c4-f9027821ccdd",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_18.png",
-            "trim": {
-              "x": 252,
-              "y": 3,
-              "width": 183,
-              "height": 73,
-              "rotatedWidth": 73,
-              "rotatedHeight": 183
-            },
-            "rawWidth": 183,
-            "rawHeight": 73,
-            "width": 189,
-            "height": 79,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/63/636217dd-a6d6-4da6-86c4-f9027821ccdd.png",
-            "x": 249,
-            "y": 0,
-            "rotated": true,
-            "rotatedWidth": 79,
-            "rotatedHeight": 189
-          },
-          {
-            "name": "ic_momo",
-            "uuid": "c416154b-6607-4648-9beb-4b04c1edb0cd",
-            "textureUuid": "090aca1a-e0c3-4541-a2d0-1db623d96f69",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_23.png",
-            "trim": {
-              "x": 3,
-              "y": 296,
-              "width": 183,
-              "height": 73,
-              "rotatedWidth": 183,
-              "rotatedHeight": 73
-            },
-            "rawWidth": 184,
-            "rawHeight": 73,
-            "width": 189,
-            "height": 79,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/09/090aca1a-e0c3-4541-a2d0-1db623d96f69.png",
-            "x": 0,
-            "y": 293,
-            "rotatedWidth": 189,
-            "rotatedHeight": 79
-          },
-          {
-            "name": "cash_out2",
-            "uuid": "a12ebeb3-18d2-424c-899f-7cf043638e23",
-            "textureUuid": "7c2f1812-2211-47a1-ba40-03d5a98c1c7d",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_17.png",
-            "trim": {
-              "x": 192,
-              "y": 192,
-              "width": 181,
-              "height": 74,
-              "rotatedWidth": 74,
-              "rotatedHeight": 181
-            },
-            "rawWidth": 202,
-            "rawHeight": 94,
-            "width": 187,
-            "height": 80,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/7c/7c2f1812-2211-47a1-ba40-03d5a98c1c7d.png",
-            "x": 189,
-            "y": 189,
-            "rotated": true,
-            "rotatedWidth": 80,
-            "rotatedHeight": 187
-          },
-          {
-            "name": "ic_gcash",
-            "uuid": "f932343f-57e7-4e1a-a57e-0e842b6a1a4b",
-            "textureUuid": "2d2fb7eb-0315-4262-baaa-a2a3688f6d0d",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349187_image_29.png",
-            "trim": {
-              "x": 3,
-              "y": 379,
-              "width": 184,
-              "height": 73,
-              "rotatedWidth": 184,
-              "rotatedHeight": 73
-            },
-            "rawWidth": 184,
-            "rawHeight": 73,
-            "width": 190,
-            "height": 79,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/2d/2d2fb7eb-0315-4262-baaa-a2a3688f6d0d.png",
-            "x": 0,
-            "y": 376,
-            "rotatedWidth": 190,
-            "rotatedHeight": 79
-          },
-          {
-            "name": "big-win-di-kuang_bg_5",
-            "uuid": "50ba52a5-2c9d-4452-9845-8f85234c1e34",
-            "textureUuid": "78914025-3927-4216-8896-8c291a1d7455",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349184_image_10.png",
-            "trim": {
-              "x": 331,
-              "y": 3,
-              "width": 357,
-              "height": 235,
-              "rotatedWidth": 235,
-              "rotatedHeight": 357
-            },
-            "rawWidth": 369,
-            "rawHeight": 246,
-            "width": 363,
-            "height": 241,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/78/78914025-3927-4216-8896-8c291a1d7455.png",
-            "x": 328,
-            "y": 0,
-            "rotated": true,
-            "rotatedWidth": 241,
-            "rotatedHeight": 363
-          },
-          {
-            "name": "rewardButton",
-            "uuid": "cda4dbbf-001d-45c7-b614-da44e03833ac",
-            "textureUuid": "355701ff-831f-475e-bf1d-11d87e015a08",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_24.png",
-            "trim": {
-              "x": 3,
-              "y": 458,
-              "width": 565,
-              "height": 227,
-              "rotatedWidth": 565,
-              "rotatedHeight": 227
-            },
-            "rawWidth": 586,
-            "rawHeight": 248,
-            "width": 571,
-            "height": 233,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/35/355701ff-831f-475e-bf1d-11d87e015a08.png",
-            "x": 0,
-            "y": 455,
-            "rotatedWidth": 571,
-            "rotatedHeight": 233
-          },
-          {
-            "name": "kuang_2",
-            "uuid": "71f5dbba-8062-406f-a429-2d1fce3b820c",
-            "textureUuid": "409d4d16-ad8e-418e-87b5-27d785d5c2f3",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349185_image_13.png",
-            "trim": {
-              "x": 574,
-              "y": 3,
-              "width": 714,
-              "height": 214,
-              "rotatedWidth": 214,
-              "rotatedHeight": 714
-            },
-            "rawWidth": 724,
-            "rawHeight": 224,
-            "width": 720,
-            "height": 220,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/40/409d4d16-ad8e-418e-87b5-27d785d5c2f3.png",
-            "x": 571,
-            "y": 0,
-            "rotated": true,
-            "rotatedWidth": 220,
-            "rotatedHeight": 720
-          },
-          {
-            "name": "kuang_3",
-            "uuid": "d3a9e308-8fb6-42a6-85e8-55f3987d73dd",
-            "textureUuid": "c8667549-a49b-41b4-b841-2263cbab8abe",
-            "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349186_image_25.png",
-            "trim": {
-              "x": 3,
-              "y": 723,
-              "width": 714,
-              "height": 225,
-              "rotatedWidth": 714,
-              "rotatedHeight": 225
-            },
-            "rawWidth": 724,
-            "rawHeight": 246,
-            "width": 720,
-            "height": 231,
-            "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/c8/c8667549-a49b-41b4-b841-2263cbab8abe.png",
-            "x": 0,
-            "y": 720,
-            "rotatedWidth": 720,
-            "rotatedHeight": 231
+            "rotatedWidth": 362,
+            "rotatedHeight": 436
           }
         ],
-        "width": 791,
-        "height": 951,
+        "width": 929,
+        "height": 566,
         "name": "altas-3",
         "imagePath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/TexturePacker/build/native/assets/resources/img/altas.pac/altas-3.png",
         "compressd": {
@@ -1011,23 +967,80 @@
     ],
     "unpackedTextures": [
       {
-        "name": "qian-kuang",
-        "uuid": "4a7afac9-5a55-41c8-a36e-d9b76fecc8de",
-        "textureUuid": "d71e500b-2e70-41a5-ae32-866fce6be0b2",
-        "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1749782349184_image_8.png",
+        "name": "big-win-di-kuang_bg_1",
+        "uuid": "27d45051-3552-4553-8130-cdcacee37557",
+        "textureUuid": "b400da7a-9522-4fc7-a2fc-e0e475c131f1",
+        "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560776_image_5.png",
         "trim": {
-          "x": 8,
-          "y": 7,
-          "width": 1048,
-          "height": 233,
-          "rotatedWidth": 1048,
-          "rotatedHeight": 233
+          "x": 7,
+          "y": 6,
+          "width": 1036,
+          "height": 550,
+          "rotatedWidth": 1036,
+          "rotatedHeight": 550
         },
-        "rawWidth": 1066,
-        "rawHeight": 246,
-        "width": 1054,
-        "height": 239,
-        "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/d7/d71e500b-2e70-41a5-ae32-866fce6be0b2.png"
+        "rawWidth": 1050,
+        "rawHeight": 563,
+        "width": 1042,
+        "height": 556,
+        "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/b4/b400da7a-9522-4fc7-a2fc-e0e475c131f1.png"
+      },
+      {
+        "name": "big-win-di-kuang_bg_2",
+        "uuid": "2bfa547a-0e8e-4cae-a776-dc31883a50a3",
+        "textureUuid": "c35f7f14-838e-43f2-a92b-14fde07cc1dd",
+        "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560776_image_6.png",
+        "trim": {
+          "x": 10,
+          "y": 149,
+          "width": 1060,
+          "height": 1010,
+          "rotatedWidth": 1060,
+          "rotatedHeight": 1010
+        },
+        "rawWidth": 1080,
+        "rawHeight": 1310,
+        "width": 1066,
+        "height": 1016,
+        "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/c3/c35f7f14-838e-43f2-a92b-14fde07cc1dd.png"
+      },
+      {
+        "name": "big-win-di-kuang_bg_3",
+        "uuid": "b7345e13-ffcd-4509-ae8d-489cd9ffa8f4",
+        "textureUuid": "2c5e5839-caa6-4029-aecd-d6fd1f368f82",
+        "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560798_image_22.png",
+        "trim": {
+          "x": 10,
+          "y": 4,
+          "width": 810,
+          "height": 1053,
+          "rotatedWidth": 810,
+          "rotatedHeight": 1053
+        },
+        "rawWidth": 823,
+        "rawHeight": 1060,
+        "width": 816,
+        "height": 1059,
+        "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/2c/2c5e5839-caa6-4029-aecd-d6fd1f368f82.png"
+      },
+      {
+        "name": "di-kuang-1",
+        "uuid": "e1bc31b7-0cac-42ba-8b09-71bc135dd2f1",
+        "textureUuid": "3832749c-f28f-49b5-b5ae-938936342c5c",
+        "path": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/temp/trimImages/spritesheet_js_1751974560804_image_26.png",
+        "trim": {
+          "x": 3,
+          "y": 37,
+          "width": 1057,
+          "height": 630,
+          "rotatedWidth": 1057,
+          "rotatedHeight": 630
+        },
+        "rawWidth": 1063,
+        "rawHeight": 670,
+        "width": 1063,
+        "height": 636,
+        "originalPath": "/Users/lifan/Cocos_PlayableAD/WildWest_Ad/library/imports/38/3832749c-f28f-49b5-b5ae-938936342c5c.png"
       }
     ]
   }

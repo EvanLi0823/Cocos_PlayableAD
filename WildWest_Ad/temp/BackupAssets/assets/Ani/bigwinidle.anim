@@ -3,91 +3,12 @@
   "_name": "bigwinidle",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 2.9833333333333334,
+  "_duration": 3,
   "sample": 60,
   "speed": 1,
   "wrapMode": 2,
   "curveData": {
     "paths": {
-      "gameNode/img_guang": {
-        "props": {
-          "angle": [
-            {
-              "frame": 0,
-              "value": -360
-            },
-            {
-              "frame": 2.9833333333333334,
-              "value": 0
-            }
-          ],
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec3",
-                "x": 1.5,
-                "y": 1.5,
-                "z": 1
-              }
-            },
-            {
-              "frame": 0.5,
-              "value": {
-                "__type__": "cc.Vec3",
-                "x": 1.4,
-                "y": 1.4,
-                "z": 1
-              }
-            },
-            {
-              "frame": 1,
-              "value": {
-                "__type__": "cc.Vec3",
-                "x": 1.5,
-                "y": 1.5,
-                "z": 1
-              }
-            },
-            {
-              "frame": 1.5,
-              "value": {
-                "__type__": "cc.Vec3",
-                "x": 1.4,
-                "y": 1.4,
-                "z": 1
-              }
-            },
-            {
-              "frame": 2,
-              "value": {
-                "__type__": "cc.Vec3",
-                "x": 1.5,
-                "y": 1.5,
-                "z": 1
-              }
-            },
-            {
-              "frame": 2.5,
-              "value": {
-                "__type__": "cc.Vec3",
-                "x": 1.4,
-                "y": 1.4,
-                "z": 1
-              }
-            },
-            {
-              "frame": 2.9833333333333334,
-              "value": {
-                "__type__": "cc.Vec3",
-                "x": 1.5,
-                "y": 1.5,
-                "z": 1
-              }
-            }
-          ]
-        }
-      },
       "gameNode/img_bigwin": {
         "props": {
           "scale": [
@@ -215,12 +136,268 @@
         "props": {
           "opacity": [
             {
+              "frame": 0,
+              "value": 0
+            },
+            {
               "frame": 0.15,
               "value": 0
             },
             {
               "frame": 0.16666666666666666,
               "value": 255
+            }
+          ]
+        }
+      },
+      "gameNode": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "gameNode/btn_cashout": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.1,
+                "y": 1.1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.1,
+                "y": 1.1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.1,
+                "y": 1.1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "gameNode/img_dikuang": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.06,
+                "y": 1.06,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.06,
+                "y": 1.06,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.1,
+                "y": 1.1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.9833333333333334,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "gameNode/img_guang": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.06,
+                "y": 1.06,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.06,
+                "y": 1.06,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.1,
+                "y": 1.1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 222
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 222
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 222
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 222
             }
           ]
         }

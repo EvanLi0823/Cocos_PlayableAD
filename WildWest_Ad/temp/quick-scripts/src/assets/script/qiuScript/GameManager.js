@@ -121,7 +121,7 @@ var GameManager = /** @class */ (function (_super) {
         anim.once(cc.Animation.EventType.FINISHED, function () {
             setTimeout(function () {
                 _this.showTireSteak();
-            }, 200);
+            }, 100);
         }, this);
         anim.play();
     };
@@ -142,7 +142,10 @@ var GameManager = /** @class */ (function (_super) {
                 var anim = _this.bigwinNode.getComponent(cc.Animation);
                 anim.once(cc.Animation.EventType.FINISHED, function () {
                     anim.play("bigwinidle");
-                    window.gameEnd && window.gameEnd();
+                    if (gameConfig_1.default.getPlayableAdType === gameConfig_1.PlayableAdType.Mtg) {
+                        //mtg打开下面这行
+                        window.gameEnd && window.gameEnd();
+                    }
                 }, _this);
                 // 先播idle
                 anim.play("bigwin");
@@ -165,7 +168,9 @@ var GameManager = /** @class */ (function (_super) {
                 };
             }
         });
-        window.gameReady && window.gameReady();
+        if (gameConfig_1.default.getPlayableAdType === gameConfig_1.PlayableAdType.Mtg) {
+            window.gameReady && window.gameReady();
+        }
     };
     GameManager.prototype.showAddReward = function () {
         var rewardAnimNode = cc.instantiate(this.rewardAnimPrefab);

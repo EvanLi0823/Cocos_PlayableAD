@@ -3,7 +3,7 @@
   "_name": "spine",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 0.9833333333333333,
+  "_duration": 0.85,
   "sample": 60,
   "speed": 0.5,
   "wrapMode": 1,
@@ -14,7 +14,7 @@
           {
             "frame": 0,
             "value": {
-              "__uuid__": "044ec27e-35f9-43e2-85f5-088dc79e80af"
+              "__uuid__": "146b4c3a-e4fc-4507-98d4-01e56bab99db"
             }
           },
           {
@@ -166,46 +166,9 @@
             "value": {
               "__uuid__": "86dfb1bf-c3cf-4d19-b12b-fa9cde24c213"
             }
-          },
-          {
-            "frame": 0.8666666666666667,
-            "value": {
-              "__uuid__": "3e844d49-e6a8-4b0b-b1ae-d9e9c2ee2c5d"
-            }
-          },
-          {
-            "frame": 0.9,
-            "value": {
-              "__uuid__": "33a807ab-f798-43e2-8127-150c99ab1c2c"
-            }
-          },
-          {
-            "frame": 0.9333333333333333,
-            "value": {
-              "__uuid__": "82605d97-3d94-4adc-8b8b-28685cb31856"
-            }
-          },
-          {
-            "frame": 0.9666666666666667,
-            "value": {
-              "__uuid__": "63d40183-3d4b-4d3b-b686-6e1a416dd23f"
-            }
           }
         ]
       }
-    },
-    "props": {
-      "scale": [
-        {
-          "frame": 0,
-          "value": {
-            "__type__": "cc.Vec3",
-            "x": 2,
-            "y": 2,
-            "z": 1
-          }
-        }
-      ]
     }
   },
   "events": []

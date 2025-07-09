@@ -4,9 +4,14 @@ cc._RF.push(module, 'b4040a0iaJCLoZzaUiRggmH', 'gameConfig');
 
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.JuiceItem = exports.Country = exports.LanguageType = void 0;
+exports.JuiceItem = exports.Country = exports.LanguageType = exports.PlayableAdType = void 0;
 var localDataManager_1 = require("./localDataManager");
 var JsbSdkScript_1 = require("./PlatformInteraction/JsbSdkScript");
+var PlayableAdType;
+(function (PlayableAdType) {
+    PlayableAdType["AppLovin"] = "AppLovin";
+    PlayableAdType["Mtg"] = "Mtg";
+})(PlayableAdType = exports.PlayableAdType || (exports.PlayableAdType = {}));
 var LanguageType;
 (function (LanguageType) {
     LanguageType["English"] = "English";
@@ -425,7 +430,14 @@ var gameConfig = /** @class */ (function () {
     };
     Object.defineProperty(gameConfig, "getCountry", {
         get: function () {
-            return Country.VN;
+            return Country.BR;
+        },
+        enumerable: false,
+        configurable: true
+    });
+    Object.defineProperty(gameConfig, "getPlayableAdType", {
+        get: function () {
+            return PlayableAdType.Mtg;
         },
         enumerable: false,
         configurable: true

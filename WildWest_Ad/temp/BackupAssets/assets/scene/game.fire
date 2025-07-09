@@ -560,8 +560,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 735,
-      "height": 282
+      "width": 810,
+      "height": 316
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -726,7 +726,7 @@
   {
     "__type__": "cc.Node",
     "_name": "btn_downLoad",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 8
     },
@@ -861,7 +861,7 @@
   {
     "__type__": "cc.Node",
     "_name": "New Label",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 16
     },
@@ -886,8 +886,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 342.69,
-      "height": 58.4
+      "width": 365.72,
+      "height": 96.2
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -941,19 +941,19 @@
     "_string": "DownLoad",
     "_N$string": "DownLoad",
     "_fontSize": 70,
-    "_lineHeight": 40,
+    "_lineHeight": 0,
     "_enableWrapText": true,
     "_N$file": null,
     "_isSystemFontUsed": true,
     "_spacingX": 0,
     "_batchAsBitmap": false,
-    "_styleFlags": 0,
+    "_styleFlags": 1,
     "_underlineHeight": 0,
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "Arial",
     "_N$overflow": 0,
-    "_N$cacheMode": 0,
+    "_N$cacheMode": 1,
     "_id": "76jWG+OGNBJpFq0HNXOpK5"
   },
   {
@@ -1320,7 +1320,7 @@
   {
     "__type__": "cc.Node",
     "_name": "img_name copy",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 26
     },
@@ -1345,8 +1345,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 735,
-      "height": 282
+      "width": 810,
+      "height": 316
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -2116,7 +2116,7 @@
   {
     "__type__": "cc.Node",
     "_name": "UpRewardNode",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 46
     },
@@ -2260,7 +2260,7 @@
   {
     "__type__": "cc.Node",
     "_name": "ic_platform",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 48
     },
@@ -3879,8 +3879,8 @@
         0,
         0,
         1,
-        1,
-        1,
+        2,
+        2,
         1
       ]
     },

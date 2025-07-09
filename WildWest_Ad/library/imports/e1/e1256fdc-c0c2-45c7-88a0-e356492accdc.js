@@ -35,22 +35,16 @@ var BigWinNode = /** @class */ (function (_super) {
         return _this;
     }
     BigWinNode.prototype.onLoad = function () {
-        var _this = this;
         var _a = gameConfig_1.default.getWord('cashOut'), string = _a.string, fontSize = _a.fontSize;
         this.download.string = string;
         this.download.fontSize = fontSize;
-        var addUnit = gameConfig_1.default.getUnityMoneyNumber(300.00);
-        this.cashLabel.string = gameConfig_1.default.getUnifyCurrency() + addUnit.toFixed(2);
-        setTimeout(function () {
-            console.log("this.cashLabel.actualWidth", _this.cashLabel.node.width);
-            _this.cashImage.setPosition(cc.v2(90 - _this.cashLabel.node.width / 2 - 100, _this.cashImage.getPosition().y));
-        }, 0);
+        // let addUnit = gameConfig.getUnityMoneyNumber(300.00);
+        // this.cashLabel.string =  gameConfig.getUnifyCurrency() + addUnit.toFixed(2);
     };
-    // start()
-    // {
-    //     let addUnit = gameConfig.getUnityMoneyNumber(15.00);
-    //     this.runNumberTween(0,addUnit,1.5)
-    // }
+    BigWinNode.prototype.start = function () {
+        var addUnit = gameConfig_1.default.getUnityMoneyNumber(300.00);
+        this.runNumberTween(0, addUnit, 1.0);
+    };
     BigWinNode.prototype.runNumberTween = function (from, to, duration) {
         var _this = this;
         var obj = { value: from };
@@ -58,7 +52,10 @@ var BigWinNode = /** @class */ (function (_super) {
             .to(duration, { value: to }, {
             onUpdate: function (target) {
                 // 精确到两位小数
-                _this.cashLabel.string = gameConfig_1.default.getUnifyCurrency() + target.value.toFixed(2);
+                _this.cashLabel.string = gameConfig_1.default.getUnifyCurrency() + target.value.toFixed(0);
+                setTimeout(function () {
+                    _this.cashImage.setPosition(cc.v2(90 - _this.cashLabel.node.width / 2 - 100, _this.cashImage.getPosition().y));
+                }, 0);
             }
         })
             .start();

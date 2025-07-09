@@ -3,12 +3,6 @@ cc._RF.push(module, '4602dOx0CJHopuNeOKmIB7I', 'DownloadBtn');
 // script/DownloadBtn.ts
 
 "use strict";
-// Learn TypeScript:
-//  - https://docs.cocos.com/creator/2.4/manual/en/scripting/typescript.html
-// Learn Attribute:
-//  - https://docs.cocos.com/creator/2.4/manual/en/scripting/reference/attributes.html
-// Learn life-cycle callbacks:
-//  - https://docs.cocos.com/creator/2.4/manual/en/scripting/life-cycle-callbacks.html
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = function (d, b) {
         extendStatics = Object.setPrototypeOf ||
@@ -29,6 +23,13 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+// Learn TypeScript:
+//  - https://docs.cocos.com/creator/2.4/manual/en/scripting/typescript.html
+// Learn Attribute:
+//  - https://docs.cocos.com/creator/2.4/manual/en/scripting/reference/attributes.html
+// Learn life-cycle callbacks:
+//  - https://docs.cocos.com/creator/2.4/manual/en/scripting/life-cycle-callbacks.html
+var gameConfig_1 = require("./gameConfig");
 var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
 var DownloadBtn = /** @class */ (function (_super) {
     __extends(DownloadBtn, _super);
@@ -44,8 +45,14 @@ var DownloadBtn = /** @class */ (function (_super) {
     };
     DownloadBtn.prototype.callback = function () {
         console.log("点击了");
-        window.install && window.install();
-        // window.mraid && window.mraid.open('https://play.google.com/store/apps/details?id=com.candy.fantasy.slots.sweet.game');
+        //mtg打开下方这行
+        if (gameConfig_1.default.getPlayableAdType === gameConfig_1.PlayableAdType.Mtg) {
+            window.install && window.install();
+        }
+        else if (gameConfig_1.default.getPlayableAdType === gameConfig_1.PlayableAdType.AppLovin) {
+            //applovin打开下方这行
+            window.mraid && window.mraid.open('https://play.google.com/store/apps/details?id=com.zeus.gold.jackpot.slots');
+        }
     };
     __decorate([
         property(cc.Node)
