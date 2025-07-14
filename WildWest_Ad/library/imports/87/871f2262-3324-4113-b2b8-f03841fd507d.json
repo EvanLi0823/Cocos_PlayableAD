@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big-win-di-kuang2",
+    "texture": "5b8943f9-cc06-4f92-bcf6-a7ef147b271a",
+    "atlas": "",
+    "rect": [
+      0,
+      10,
+      1080,
+      1276
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      1080,
+      1298
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

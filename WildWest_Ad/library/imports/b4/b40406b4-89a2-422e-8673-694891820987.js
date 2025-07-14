@@ -430,7 +430,7 @@ var gameConfig = /** @class */ (function () {
     };
     Object.defineProperty(gameConfig, "getCountry", {
         get: function () {
-            return Country.BR;
+            return Country.IN;
         },
         enumerable: false,
         configurable: true

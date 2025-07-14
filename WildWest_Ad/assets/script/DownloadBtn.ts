@@ -32,7 +32,7 @@ export default class DownloadBtn extends cc.Component {
             window.install&&window.install();
         }else if (gameConfig.getPlayableAdType === PlayableAdType.AppLovin) {
             //applovin打开下方这行
-            window.mraid && window.mraid.open('https://play.google.com/store/apps/details?id=com.zeus.gold.jackpot.slots');
+            window.mraid && window.mraid.open('https://play.google.com/store/apps/details?id=com.wild.cowboy.slots');
         }
     }
 }

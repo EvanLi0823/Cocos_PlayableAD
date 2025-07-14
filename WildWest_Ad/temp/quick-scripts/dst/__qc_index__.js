@@ -23,6 +23,7 @@ require('./assets/script/GradeNoticeBoardScript');
 require('./assets/script/GuideScript');
 require('./assets/script/LocalAssetsManager');
 require('./assets/script/Model/DataModel');
+require('./assets/script/MoneyAnimation');
 require('./assets/script/PlatformInteraction/JsbSdkScript');
 require('./assets/script/PlatformInteraction/PIDelegate');
 require('./assets/script/RightNode');
