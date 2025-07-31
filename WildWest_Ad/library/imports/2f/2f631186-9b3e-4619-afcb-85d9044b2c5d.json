@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big-win-di-kuang_cash_2",
+    "texture": "2d22466a-2cb5-46da-8c33-7ff117e6f571",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      189,
+      177
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      195,
+      183
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

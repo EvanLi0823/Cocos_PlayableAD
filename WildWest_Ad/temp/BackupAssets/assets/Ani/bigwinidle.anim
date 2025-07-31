@@ -150,21 +150,6 @@
           ]
         }
       },
-      "gameNode": {
-        "props": {
-          "scale": [
-            {
-              "frame": 0,
-              "value": {
-                "__type__": "cc.Vec3",
-                "x": 1,
-                "y": 1,
-                "z": 1
-              }
-            }
-          ]
-        }
-      },
       "gameNode/btn_cashout": {
         "props": {
           "scale": [

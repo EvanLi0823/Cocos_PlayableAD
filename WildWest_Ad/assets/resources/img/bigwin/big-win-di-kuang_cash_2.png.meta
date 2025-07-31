@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2d22466a-2cb5-46da-8c33-7ff117e6f571",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 195,
+  "height": 183,
+  "platformSettings": {},
+  "subMetas": {
+    "big-win-di-kuang_cash_2": {
+      "ver": "1.0.6",
+      "uuid": "2f631186-9b3e-4619-afcb-85d9044b2c5d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2d22466a-2cb5-46da-8c33-7ff117e6f571",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 189,
+      "height": 177,
+      "rawWidth": 195,
+      "rawHeight": 183,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
