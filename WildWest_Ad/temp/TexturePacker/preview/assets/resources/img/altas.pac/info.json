@@ -1,0 +1,590 @@
+{
+  "projectPath": "/Users/lifan/Downloads/WildWest_Ad",
+  "mtimes": {
+    "e2800f2d-f2c5-4bcd-971c-df59a373b024": {
+      "assetMtime": 1748951362404,
+      "metaMtime": 1748951424211
+    },
+    "16e57034-f0d4-4675-9acd-0aebe46f8060": {
+      "assetMtime": 1748937970601,
+      "metaMtime": 1748937970634
+    },
+    "ec5e6f4e-672b-4373-b94c-ab6757d1f603": {
+      "assetMtime": 1748937970601,
+      "metaMtime": 1748937970634
+    },
+    "187486e8-c463-4eb2-bee8-962741e540b9": {
+      "assetMtime": 1748937970601,
+      "metaMtime": 1748937970636
+    },
+    "bb871069-ec44-4a3b-a367-25ba4d456360": {
+      "assetMtime": 1748937970601,
+      "metaMtime": 1748937970636
+    },
+    "19d1bfd5-d055-4951-b32b-60522a4f6419": {
+      "assetMtime": 1748920335629,
+      "metaMtime": 1748920335655
+    },
+    "e41621bd-08ed-4dc3-b1a4-34af1e79460c": {
+      "assetMtime": 1748920335629,
+      "metaMtime": 1748920335655
+    },
+    "26cec1ce-1953-40cd-b81d-22df58331809": {
+      "assetMtime": 1748937970601,
+      "metaMtime": 1748937970637
+    },
+    "bc07f27c-b10f-43bb-821d-b2987b5a7443": {
+      "assetMtime": 1748937970601,
+      "metaMtime": 1748937970637
+    },
+    "691831fe-eb32-43a0-a921-bc7402724dbb": {
+      "assetMtime": 1748919337576,
+      "metaMtime": 1748919647748
+    },
+    "abac6dcf-54d7-4edc-9b8a-dcf440382314": {
+      "assetMtime": 1748919337576,
+      "metaMtime": 1748919647748
+    },
+    "6c482fe6-fe19-48d3-b9cc-72655a074e36": {
+      "assetMtime": 1748921023282,
+      "metaMtime": 1748921023317
+    },
+    "8104a9f8-56e8-40e2-81a5-107d26530a2c": {
+      "assetMtime": 1748921023282,
+      "metaMtime": 1748921023317
+    },
+    "71f5dbba-8062-406f-a429-2d1fce3b820c": {
+      "assetMtime": 1748930726583,
+      "metaMtime": 1748930726601
+    },
+    "409d4d16-ad8e-418e-87b5-27d785d5c2f3": {
+      "assetMtime": 1748930726583,
+      "metaMtime": 1748930726601
+    },
+    "8abddbdf-87c4-4822-9d0c-1c9b9ccacf4a": {
+      "assetMtime": 1737594588000,
+      "metaMtime": 1748918095759
+    },
+    "e1efcf58-e009-498d-8cf4-ab01227d32b5": {
+      "assetMtime": 1737594588000,
+      "metaMtime": 1748918095759
+    },
+    "9fc70cd2-26a7-4aa9-b346-86d3a1bf7c4d": {
+      "assetMtime": 1691647222000,
+      "metaMtime": 1748918095727
+    },
+    "8a28a65c-570b-47fa-9a5f-0f9836bf6039": {
+      "assetMtime": 1691647222000,
+      "metaMtime": 1748918095727
+    },
+    "a12ebeb3-18d2-424c-899f-7cf043638e23": {
+      "assetMtime": 1748932436105,
+      "metaMtime": 1748932436124
+    },
+    "7c2f1812-2211-47a1-ba40-03d5a98c1c7d": {
+      "assetMtime": 1748932436105,
+      "metaMtime": 1748932436124
+    },
+    "accba50a-1456-4164-bcdc-c63344e99dd7": {
+      "assetMtime": 1748937970601,
+      "metaMtime": 1748937970635
+    },
+    "04928ed6-9915-4708-b77e-feb10503c58d": {
+      "assetMtime": 1748937970601,
+      "metaMtime": 1748937970635
+    },
+    "b25481a3-36b5-4ec7-a290-e47a1d41ea28": {
+      "assetMtime": 1748930726582,
+      "metaMtime": 1748930726603
+    },
+    "e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d": {
+      "assetMtime": 1748930726582,
+      "metaMtime": 1748930726603
+    },
+    "cda4dbbf-001d-45c7-b614-da44e03833ac": {
+      "assetMtime": 1748919337565,
+      "metaMtime": 1748921347164
+    },
+    "355701ff-831f-475e-bf1d-11d87e015a08": {
+      "assetMtime": 1748919337565,
+      "metaMtime": 1748921347164
+    },
+    "d3a9e308-8fb6-42a6-85e8-55f3987d73dd": {
+      "assetMtime": 1748930726583,
+      "metaMtime": 1748930726604
+    },
+    "c8667549-a49b-41b4-b841-2263cbab8abe": {
+      "assetMtime": 1748930726583,
+      "metaMtime": 1748930726604
+    },
+    "e3107d61-1961-4345-8bcc-61962ee3d19b": {
+      "assetMtime": 1748932176392,
+      "metaMtime": 1748932176408
+    },
+    "657101ec-2ee0-4861-a3c9-480d97dc02d6": {
+      "assetMtime": 1748932176392,
+      "metaMtime": 1748932176408
+    },
+    "e5094714-dece-45a4-a39c-e9e21081724f": {
+      "assetMtime": 1748931266087,
+      "metaMtime": 1748931266101
+    },
+    "7c939b1a-2a9c-4d4f-8fb6-2b80f6cbd46d": {
+      "assetMtime": 1748931266087,
+      "metaMtime": 1748931266101
+    },
+    "ee1a8f96-e486-4cba-bdb4-2e23bc4d04a3": {
+      "assetMtime": 1748937970601,
+      "metaMtime": 1748937970640
+    },
+    "a0d8ab75-6439-464b-bdf8-e15eb2ea205e": {
+      "assetMtime": 1748937970601,
+      "metaMtime": 1748937970640
+    }
+  },
+  "result": {
+    "name": "altas-2",
+    "width": 943,
+    "height": 883,
+    "ver": "1.2.5",
+    "uuid": "e2800f2d-f2c5-4bcd-971c-df59a373b024",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "light",
+            "uuid": "6c482fe6-fe19-48d3-b9cc-72655a074e36",
+            "textureUuid": "8104a9f8-56e8-40e2-81a5-107d26530a2c",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484544_image_5.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 760,
+              "height": 720,
+              "rotatedWidth": 760,
+              "rotatedHeight": 720
+            },
+            "rawWidth": 780,
+            "rawHeight": 740,
+            "width": 766,
+            "height": 726,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/81/8104a9f8-56e8-40e2-81a5-107d26530a2c.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 766,
+            "rotatedHeight": 726
+          },
+          {
+            "name": "spin",
+            "uuid": "e5094714-dece-45a4-a39c-e9e21081724f",
+            "textureUuid": "7c939b1a-2a9c-4d4f-8fb6-2b80f6cbd46d",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484546_image_15.png",
+            "trim": {
+              "x": 3,
+              "y": 729,
+              "width": 281,
+              "height": 103,
+              "rotatedWidth": 103,
+              "rotatedHeight": 281
+            },
+            "rawWidth": 302,
+            "rawHeight": 124,
+            "width": 287,
+            "height": 109,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/7c/7c939b1a-2a9c-4d4f-8fb6-2b80f6cbd46d.png",
+            "x": 0,
+            "y": 726,
+            "rotated": true,
+            "rotatedWidth": 109,
+            "rotatedHeight": 287
+          },
+          {
+            "name": "rewardButton",
+            "uuid": "cda4dbbf-001d-45c7-b614-da44e03833ac",
+            "textureUuid": "355701ff-831f-475e-bf1d-11d87e015a08",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484546_image_12.png",
+            "trim": {
+              "x": 769,
+              "y": 3,
+              "width": 565,
+              "height": 227,
+              "rotatedWidth": 227,
+              "rotatedHeight": 565
+            },
+            "rawWidth": 586,
+            "rawHeight": 248,
+            "width": 571,
+            "height": 233,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/35/355701ff-831f-475e-bf1d-11d87e015a08.png",
+            "x": 766,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 233,
+            "rotatedHeight": 571
+          },
+          {
+            "name": "biao_ti",
+            "uuid": "19d1bfd5-d055-4951-b32b-60522a4f6419",
+            "textureUuid": "e41621bd-08ed-4dc3-b1a4-34af1e79460c",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484544_image_2.png",
+            "trim": {
+              "x": 112,
+              "y": 729,
+              "width": 714,
+              "height": 262,
+              "rotatedWidth": 714,
+              "rotatedHeight": 262
+            },
+            "rawWidth": 736,
+            "rawHeight": 282,
+            "width": 720,
+            "height": 268,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/e4/e41621bd-08ed-4dc3-b1a4-34af1e79460c.png",
+            "x": 109,
+            "y": 726,
+            "rotatedWidth": 720,
+            "rotatedHeight": 268
+          },
+          {
+            "name": "remindhand",
+            "uuid": "9fc70cd2-26a7-4aa9-b346-86d3a1bf7c4d",
+            "textureUuid": "8a28a65c-570b-47fa-9a5f-0f9836bf6039",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484545_image_8.png",
+            "trim": {
+              "x": 769,
+              "y": 574,
+              "width": 145,
+              "height": 172,
+              "rotatedWidth": 172,
+              "rotatedHeight": 145
+            },
+            "rawWidth": 146,
+            "rawHeight": 173,
+            "width": 151,
+            "height": 178,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/8a/8a28a65c-570b-47fa-9a5f-0f9836bf6039.png",
+            "x": 766,
+            "y": 571,
+            "rotated": true,
+            "rotatedWidth": 178,
+            "rotatedHeight": 151
+          },
+          {
+            "name": "cash_out2",
+            "uuid": "a12ebeb3-18d2-424c-899f-7cf043638e23",
+            "textureUuid": "7c2f1812-2211-47a1-ba40-03d5a98c1c7d",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484545_image_9.png",
+            "trim": {
+              "x": 947,
+              "y": 574,
+              "width": 181,
+              "height": 74,
+              "rotatedWidth": 74,
+              "rotatedHeight": 181
+            },
+            "rawWidth": 202,
+            "rawHeight": 94,
+            "width": 187,
+            "height": 80,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/7c/7c2f1812-2211-47a1-ba40-03d5a98c1c7d.png",
+            "x": 944,
+            "y": 571,
+            "rotated": true,
+            "rotatedWidth": 80,
+            "rotatedHeight": 187
+          },
+          {
+            "name": "8",
+            "uuid": "e3107d61-1961-4345-8bcc-61962ee3d19b",
+            "textureUuid": "657101ec-2ee0-4861-a3c9-480d97dc02d6",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484546_image_14.png",
+            "trim": {
+              "x": 832,
+              "y": 761,
+              "width": 184,
+              "height": 73,
+              "rotatedWidth": 184,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 184,
+            "rawHeight": 73,
+            "width": 190,
+            "height": 79,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/65/657101ec-2ee0-4861-a3c9-480d97dc02d6.png",
+            "x": 829,
+            "y": 758,
+            "rotatedWidth": 190,
+            "rotatedHeight": 79
+          },
+          {
+            "name": "redbagfly",
+            "uuid": "16e57034-f0d4-4675-9acd-0aebe46f8060",
+            "textureUuid": "ec5e6f4e-672b-4373-b94c-ab6757d1f603",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484543_image_0.png",
+            "trim": {
+              "x": 832,
+              "y": 840,
+              "width": 98,
+              "height": 79,
+              "rotatedWidth": 79,
+              "rotatedHeight": 98
+            },
+            "rawWidth": 104,
+            "rawHeight": 84,
+            "width": 104,
+            "height": 85,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/ec/ec5e6f4e-672b-4373-b94c-ab6757d1f603.png",
+            "x": 829,
+            "y": 837,
+            "rotated": true,
+            "rotatedWidth": 85,
+            "rotatedHeight": 104
+          },
+          {
+            "name": "redbagflypt",
+            "uuid": "187486e8-c463-4eb2-bee8-962741e540b9",
+            "textureUuid": "bb871069-ec44-4a3b-a367-25ba4d456360",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484543_image_1.png",
+            "trim": {
+              "x": 917,
+              "y": 840,
+              "width": 98,
+              "height": 79,
+              "rotatedWidth": 98,
+              "rotatedHeight": 79
+            },
+            "rawWidth": 104,
+            "rawHeight": 84,
+            "width": 104,
+            "height": 85,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/bb/bb871069-ec44-4a3b-a367-25ba4d456360.png",
+            "x": 914,
+            "y": 837,
+            "rotatedWidth": 104,
+            "rotatedHeight": 85
+          },
+          {
+            "name": "redbagflyKR",
+            "uuid": "26cec1ce-1953-40cd-b81d-22df58331809",
+            "textureUuid": "bc07f27c-b10f-43bb-821d-b2987b5a7443",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484544_image_3.png",
+            "trim": {
+              "x": 917,
+              "y": 925,
+              "width": 98,
+              "height": 79,
+              "rotatedWidth": 98,
+              "rotatedHeight": 79
+            },
+            "rawWidth": 104,
+            "rawHeight": 84,
+            "width": 104,
+            "height": 85,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/bc/bc07f27c-b10f-43bb-821d-b2987b5a7443.png",
+            "x": 914,
+            "y": 922,
+            "rotatedWidth": 104,
+            "rotatedHeight": 85
+          }
+        ],
+        "width": 1024,
+        "height": 1013,
+        "name": "altas-1",
+        "imagePath": "/Users/lifan/Downloads/WildWest_Ad/temp/TexturePacker/preview/assets/resources/img/altas.pac/altas-1.png"
+      },
+      {
+        "files": [
+          {
+            "name": "icon",
+            "uuid": "691831fe-eb32-43a0-a921-bc7402724dbb",
+            "textureUuid": "abac6dcf-54d7-4edc-9b8a-dcf440382314",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484544_image_4.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 486,
+              "height": 485,
+              "rotatedWidth": 486,
+              "rotatedHeight": 485
+            },
+            "rawWidth": 506,
+            "rawHeight": 506,
+            "width": 492,
+            "height": 491,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/ab/abac6dcf-54d7-4edc-9b8a-dcf440382314.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 492,
+            "rotatedHeight": 491
+          },
+          {
+            "name": "kuang_3",
+            "uuid": "d3a9e308-8fb6-42a6-85e8-55f3987d73dd",
+            "textureUuid": "c8667549-a49b-41b4-b841-2263cbab8abe",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484546_image_13.png",
+            "trim": {
+              "x": 495,
+              "y": 3,
+              "width": 714,
+              "height": 225,
+              "rotatedWidth": 225,
+              "rotatedHeight": 714
+            },
+            "rawWidth": 724,
+            "rawHeight": 246,
+            "width": 720,
+            "height": 231,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/c8/c8667549-a49b-41b4-b841-2263cbab8abe.png",
+            "x": 492,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 231,
+            "rotatedHeight": 720
+          },
+          {
+            "name": "kuang_2",
+            "uuid": "71f5dbba-8062-406f-a429-2d1fce3b820c",
+            "textureUuid": "409d4d16-ad8e-418e-87b5-27d785d5c2f3",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484544_image_6.png",
+            "trim": {
+              "x": 726,
+              "y": 3,
+              "width": 714,
+              "height": 214,
+              "rotatedWidth": 214,
+              "rotatedHeight": 714
+            },
+            "rawWidth": 724,
+            "rawHeight": 224,
+            "width": 720,
+            "height": 220,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/40/409d4d16-ad8e-418e-87b5-27d785d5c2f3.png",
+            "x": 723,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 220,
+            "rotatedHeight": 720
+          },
+          {
+            "name": "kuang_1",
+            "uuid": "b25481a3-36b5-4ec7-a290-e47a1d41ea28",
+            "textureUuid": "e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484545_image_11.png",
+            "trim": {
+              "x": 3,
+              "y": 723,
+              "width": 687,
+              "height": 157,
+              "rotatedWidth": 687,
+              "rotatedHeight": 157
+            },
+            "rawWidth": 708,
+            "rawHeight": 178,
+            "width": 693,
+            "height": 163,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/e8/e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d.png",
+            "x": 0,
+            "y": 720,
+            "rotatedWidth": 693,
+            "rotatedHeight": 163
+          },
+          {
+            "name": "spin",
+            "uuid": "8abddbdf-87c4-4822-9d0c-1c9b9ccacf4a",
+            "textureUuid": "e1efcf58-e009-498d-8cf4-ab01227d32b5",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484544_image_7.png",
+            "trim": {
+              "x": 3,
+              "y": 494,
+              "width": 344,
+              "height": 148,
+              "rotatedWidth": 344,
+              "rotatedHeight": 148
+            },
+            "rawWidth": 344,
+            "rawHeight": 148,
+            "width": 350,
+            "height": 154,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/e1/e1efcf58-e009-498d-8cf4-ab01227d32b5.png",
+            "x": 0,
+            "y": 491,
+            "rotatedWidth": 350,
+            "rotatedHeight": 154
+          },
+          {
+            "name": "redbagflyID",
+            "uuid": "accba50a-1456-4164-bcdc-c63344e99dd7",
+            "textureUuid": "04928ed6-9915-4708-b77e-feb10503c58d",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484545_image_10.png",
+            "trim": {
+              "x": 353,
+              "y": 494,
+              "width": 98,
+              "height": 79,
+              "rotatedWidth": 79,
+              "rotatedHeight": 98
+            },
+            "rawWidth": 104,
+            "rawHeight": 84,
+            "width": 104,
+            "height": 85,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/04/04928ed6-9915-4708-b77e-feb10503c58d.png",
+            "x": 350,
+            "y": 491,
+            "rotated": true,
+            "rotatedWidth": 85,
+            "rotatedHeight": 104
+          },
+          {
+            "name": "redbagflyPK",
+            "uuid": "ee1a8f96-e486-4cba-bdb4-2e23bc4d04a3",
+            "textureUuid": "a0d8ab75-6439-464b-bdf8-e15eb2ea205e",
+            "path": "/Users/lifan/Downloads/WildWest_Ad/temp/trimImages/spritesheet_js_1748951484547_image_16.png",
+            "trim": {
+              "x": 353,
+              "y": 598,
+              "width": 98,
+              "height": 79,
+              "rotatedWidth": 98,
+              "rotatedHeight": 79
+            },
+            "rawWidth": 104,
+            "rawHeight": 84,
+            "width": 104,
+            "height": 85,
+            "originalPath": "/Users/lifan/Downloads/WildWest_Ad/library/imports/a0/a0d8ab75-6439-464b-bdf8-e15eb2ea205e.png",
+            "x": 350,
+            "y": 595,
+            "rotatedWidth": 104,
+            "rotatedHeight": 85
+          }
+        ],
+        "width": 943,
+        "height": 883,
+        "name": "altas-2",
+        "imagePath": "/Users/lifan/Downloads/WildWest_Ad/temp/TexturePacker/preview/assets/resources/img/altas.pac/altas-2.png"
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

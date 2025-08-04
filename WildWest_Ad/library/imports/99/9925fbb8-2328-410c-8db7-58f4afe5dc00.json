@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_dana",
+    "texture": "a240e27c-e349-4627-a170-0a5f95a2ced6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redbagflypt",
+    "texture": "bb871069-ec44-4a3b-a367-25ba4d456360",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      98,
+      79
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      104,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

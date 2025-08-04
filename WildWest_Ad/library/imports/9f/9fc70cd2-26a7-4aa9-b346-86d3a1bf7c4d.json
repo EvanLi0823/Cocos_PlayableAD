@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "remindhand",
+    "texture": "8a28a65c-570b-47fa-9a5f-0f9836bf6039",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      145,
+      172
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      146,
+      173
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
