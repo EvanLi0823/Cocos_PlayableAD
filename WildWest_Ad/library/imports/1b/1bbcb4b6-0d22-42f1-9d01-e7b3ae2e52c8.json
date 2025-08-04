@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_webmoney",
+    "texture": "7756d9d3-c7e2-4fc7-89de-41559aaad7d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      183,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "claim2_button_bg",
+    "texture": "a71c981b-1c96-42d4-b43a-1c258da6053d",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      592,
+      182
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      600,
+      189
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
