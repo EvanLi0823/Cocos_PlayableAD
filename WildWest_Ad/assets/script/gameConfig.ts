@@ -427,7 +427,7 @@ export default class gameConfig {
    }
 
    static get getPlayableAdType(){
-      return PlayableAdType.Mtg;
+      return PlayableAdType.AppLovin;
    }
 
    static get localLanguage() {

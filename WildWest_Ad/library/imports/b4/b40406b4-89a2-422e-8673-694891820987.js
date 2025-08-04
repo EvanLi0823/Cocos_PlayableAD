@@ -437,7 +437,7 @@ var gameConfig = /** @class */ (function () {
     });
     Object.defineProperty(gameConfig, "getPlayableAdType", {
         get: function () {
-            return PlayableAdType.Mtg;
+            return PlayableAdType.AppLovin;
         },
         enumerable: false,
         configurable: true
