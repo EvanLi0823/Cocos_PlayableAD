@@ -304,6 +304,16 @@
     "meta": 1748921023317,
     "relativePath": "resources/img/SceneImage/light.png"
   },
+  "355701ff-831f-475e-bf1d-11d87e015a08": {
+    "asset": 1748919337565,
+    "meta": 1748921347164,
+    "relativePath": "resources/img/rewardImg/rewardButton.png"
+  },
+  "7c939b1a-2a9c-4d4f-8fb6-2b80f6cbd46d": {
+    "asset": 1748931266087,
+    "meta": 1748931266101,
+    "relativePath": "resources/img/rewardImg/spin.png"
+  },
   "657101ec-2ee0-4861-a3c9-480d97dc02d6": {
     "asset": 1748932176392,
     "meta": 1749019489943,
@@ -949,6 +959,11 @@
     "meta": 1752224601841,
     "relativePath": "script/BigWinNode.ts"
   },
+  "9778a88a-a838-42f3-802d-c0785064e3f9": {
+    "asset": 1752026620958,
+    "meta": 1752026648447,
+    "relativePath": "script/qiuScript/GameManager.ts"
+  },
   "e8103f6e-9cec-4a61-8ea6-a1ec7f18a14d": {
     "asset": 1753928911698,
     "meta": 1754274424874,
@@ -960,8 +975,8 @@
     "relativePath": "resources/prefab/BigWinNode.prefab"
   },
   "8b0bee6c-3a09-43df-9af8-37b078730f02": {
-    "asset": 1754288820894,
-    "meta": 1754288820898,
+    "asset": 1754275041570,
+    "meta": 1754275041573,
     "relativePath": "scene/game.fire"
   },
   "409d4d16-ad8e-418e-87b5-27d785d5c2f3": {
@@ -1173,20 +1188,5 @@
     "asset": 1754249334000,
     "meta": 1754280297733,
     "relativePath": "resources/img/bigwin/big-win-di-kuang_bg_6.png"
-  },
-  "f392b640-44ed-45a6-95de-0a58b18a4847": {
-    "asset": 1754288141235,
-    "meta": 1754288262659,
-    "relativePath": "resources/img/rewardImg/spin_type_base.png"
-  },
-  "bb9d2dda-a988-4116-86fd-138d1673713e": {
-    "asset": 1754288141227,
-    "meta": 1754288262661,
-    "relativePath": "resources/img/rewardImg/spin_base.png"
-  },
-  "9778a88a-a838-42f3-802d-c0785064e3f9": {
-    "asset": 1754288721199,
-    "meta": 1754288725575,
-    "relativePath": "script/qiuScript/GameManager.ts"
   }
 }
