@@ -9,7 +9,7 @@
   "genMipmaps": false,
   "packable": true,
   "width": 734,
-  "height": 242,
+  "height": 221,
   "platformSettings": {},
   "subMetas": {
     "kuang_3": {
@@ -25,9 +25,9 @@
       "trimX": 10,
       "trimY": 11,
       "width": 714,
-      "height": 221,
+      "height": 200,
       "rawWidth": 734,
-      "rawHeight": 242,
+      "rawHeight": 221,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
