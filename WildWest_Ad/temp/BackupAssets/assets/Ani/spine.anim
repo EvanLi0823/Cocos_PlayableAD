@@ -3,7 +3,7 @@
   "_name": "spine",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 0.8666666666666667,
+  "_duration": 0.8833333333333333,
   "sample": 60,
   "speed": 0.5,
   "wrapMode": 1,
@@ -168,9 +168,9 @@
             }
           },
           {
-            "frame": 0.85,
+            "frame": 0.8666666666666667,
             "value": {
-              "__uuid__": "146b4c3a-e4fc-4507-98d4-01e56bab99db"
+              "__uuid__": "86dfb1bf-c3cf-4d19-b12b-fa9cde24c213"
             }
           }
         ]

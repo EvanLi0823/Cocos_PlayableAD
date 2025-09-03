@@ -423,15 +423,13 @@ export default class gameConfig {
 
 
    static get getCountry(){
-      // return Country.BR;
+      return Country.BR;
       // return Country.EN;
       // return Country.ID;
-      // return Country.PK;
-      // return Country.KR;
       // return Country.PH;
       // return Country.IN;
       // return Country.RU;
-      return Country.VN;
+      // return Country.VN;
    }
 
    static get getPlayableAdType(){
