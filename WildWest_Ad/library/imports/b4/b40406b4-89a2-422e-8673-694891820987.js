@@ -430,14 +430,21 @@ var gameConfig = /** @class */ (function () {
     };
     Object.defineProperty(gameConfig, "getCountry", {
         get: function () {
-            return Country.BR;
+            return Country.EN;
+            // return Country.BR;
+            // return Country.ID;
+            // return Country.RU;
+            // return Country.PH;
+            // return Country.VN;
+            // return Country.IN;
         },
         enumerable: false,
         configurable: true
     });
     Object.defineProperty(gameConfig, "getPlayableAdType", {
         get: function () {
-            return PlayableAdType.Mtg;
+            return PlayableAdType.AppLovin;
+            // return PlayableAdType.Mtg;
         },
         enumerable: false,
         configurable: true

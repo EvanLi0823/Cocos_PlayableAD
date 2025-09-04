@@ -169,6 +169,20 @@
           }
         ]
       }
+    },
+    "props": {
+      "width": [
+        {
+          "frame": 0,
+          "value": 346
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 169
+        }
+      ]
     }
   },
   "events": []

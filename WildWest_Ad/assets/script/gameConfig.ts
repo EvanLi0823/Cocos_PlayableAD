@@ -423,11 +423,18 @@ export default class gameConfig {
 
 
    static get getCountry(){
-      return Country.BR;
+      return Country.EN;
+      // return Country.BR;
+      // return Country.ID;
+      // return Country.RU;
+      // return Country.PH;
+      // return Country.VN;
+      // return Country.IN;
    }
 
    static get getPlayableAdType(){
-      return PlayableAdType.Mtg;
+      return PlayableAdType.AppLovin;
+      // return PlayableAdType.Mtg;
    }
 
    static get localLanguage() {
