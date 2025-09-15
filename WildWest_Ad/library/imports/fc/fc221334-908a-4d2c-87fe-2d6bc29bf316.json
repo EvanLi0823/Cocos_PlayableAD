@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lunck-cash-kuang-di",
+    "texture": "4b1117e2-6be9-4dc4-9b1d-ee54d12b71e0",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      903,
+      606
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      911,
+      612
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_cash",
+    "texture": "2a3d9afa-16b0-4566-b251-f458926fa7ce",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      990,
+      589
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      998,
+      597
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

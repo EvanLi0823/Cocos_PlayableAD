@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bizhuanguang",
+    "texture": "5e210a54-fa7f-438d-a067-30223f8d51b6",
+    "atlas": "",
+    "rect": [
+      35,
+      44,
+      732,
+      735
+    ],
+    "offset": [
+      1,
+      -11.5
+    ],
+    "originalSize": [
+      800,
+      800
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

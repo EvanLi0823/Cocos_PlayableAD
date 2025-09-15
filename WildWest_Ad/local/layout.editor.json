@@ -5,21 +5,21 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 1856,
-      "y": 88,
+      "x": 0,
+      "y": 25,
       "width": 1792,
-      "height": 1055,
+      "height": 1019,
       "layout": {
         "type": "dock-h",
         "children": [
           {
             "width": 320,
-            "height": 968,
+            "height": 929.5,
             "type": "dock-v",
             "children": [
               {
                 "width": 320,
-                "height": 540,
+                "height": 518.453125,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -28,7 +28,7 @@
               },
               {
                 "width": 320,
-                "height": 425,
+                "height": 408.046875,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -39,17 +39,17 @@
           },
           {
             "width": 996,
-            "height": 968,
+            "height": 929.5,
             "type": "dock-v",
             "children": [
               {
                 "width": 996,
-                "height": 616,
+                "height": 433,
                 "type": "dock-h",
                 "children": [
                   {
                     "width": 661,
-                    "height": 616,
+                    "height": 433,
                     "type": "panel",
                     "active": 0,
                     "children": [
@@ -58,7 +58,7 @@
                   },
                   {
                     "width": 332,
-                    "height": 616,
+                    "height": 433,
                     "type": "panel",
                     "active": 0,
                     "children": [
@@ -69,7 +69,7 @@
               },
               {
                 "width": 996,
-                "height": 349,
+                "height": 493.5,
                 "type": "panel",
                 "active": 1,
                 "children": [
@@ -82,7 +82,7 @@
           },
           {
             "width": 470,
-            "height": 968,
+            "height": 929.5,
             "type": "panel",
             "active": 0,
             "children": [

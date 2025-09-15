@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4b1117e2-6be9-4dc4-9b1d-ee54d12b71e0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 911,
+  "height": 612,
+  "platformSettings": {},
+  "subMetas": {
+    "lunck-cash-kuang-di": {
+      "ver": "1.0.6",
+      "uuid": "fc221334-908a-4d2c-87fe-2d6bc29bf316",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4b1117e2-6be9-4dc4-9b1d-ee54d12b71e0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 3,
+      "width": 903,
+      "height": 606,
+      "rawWidth": 911,
+      "rawHeight": 612,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

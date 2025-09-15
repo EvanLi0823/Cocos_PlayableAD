@@ -215,6 +215,20 @@
             }
           ]
         }
+      },
+      "gameNode/Bizhuanguang": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 360
+            },
+            {
+              "frame": 3,
+              "value": 0
+            }
+          ]
+        }
       }
     },
     "props": {
