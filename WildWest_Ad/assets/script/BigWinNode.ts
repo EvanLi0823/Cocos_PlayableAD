@@ -22,7 +22,7 @@ export default class BigWinNode extends cc.Component {
 
     start()
     {
-        let addUnit = gameConfig.getUnityMoneyNumber(300.00);
+        let addUnit = gameConfig.getUnityMoneyStr();
         this.runNumberTween(0,addUnit,1.0);
     }
 
