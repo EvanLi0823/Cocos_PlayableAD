@@ -299,6 +299,19 @@ export default class gameConfig {
       }
    }
 
+   static getUnityMoneyStr() {
+      let money:any = 66;
+      let country = this.getCountry
+      if(country == Country.BR)
+      {
+         money =  330;
+      }else if(country == Country.ID)
+      {
+         money =  1056000;
+      }
+      return Number(money);
+   }
+
    static getUnifyExchangeRate(){
       let country = this.getCountry
    	let exchangeRate = 1;
@@ -427,7 +440,8 @@ export default class gameConfig {
    }
 
    static get getPlayableAdType(){
-      return PlayableAdType.AppLovin;
+      // return PlayableAdType.AppLovin;
+      return PlayableAdType.Mtg;
    }
 
    static get localLanguage() {
