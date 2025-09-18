@@ -423,9 +423,9 @@ export default class gameConfig {
 
 
    static get getCountry(){
-      return Country.BR;
+      // return Country.BR;
       // return Country.EN;
-      // return Country.ID;
+      return Country.ID;
       // return Country.PH;
       // return Country.IN;
       // return Country.RU;

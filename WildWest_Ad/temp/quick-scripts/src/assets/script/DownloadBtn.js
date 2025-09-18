@@ -51,7 +51,7 @@ var DownloadBtn = /** @class */ (function (_super) {
         }
         else if (gameConfig_1.default.getPlayableAdType === gameConfig_1.PlayableAdType.AppLovin) {
             //applovin打开下方这行
-            window.mraid && window.mraid.open('https://play.google.com/store/apps/details?id=com.newoi.slots.dracula.spin');
+            window.mraid && window.mraid.open('https://play.google.com/store/apps/details?id=com.halloween.slots.koyo');
         }
     };
     __decorate([

@@ -430,9 +430,9 @@ var gameConfig = /** @class */ (function () {
     };
     Object.defineProperty(gameConfig, "getCountry", {
         get: function () {
-            return Country.BR;
+            // return Country.BR;
             // return Country.EN;
-            // return Country.ID;
+            return Country.ID;
             // return Country.PH;
             // return Country.IN;
             // return Country.RU;
