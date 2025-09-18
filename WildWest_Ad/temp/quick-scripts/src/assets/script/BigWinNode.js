@@ -42,7 +42,7 @@ var BigWinNode = /** @class */ (function (_super) {
         // this.cashLabel.string =  gameConfig.getUnifyCurrency() + addUnit.toFixed(2);
     };
     BigWinNode.prototype.start = function () {
-        var addUnit = gameConfig_1.default.getUnityMoneyNumber(300.00);
+        var addUnit = gameConfig_1.default.getUnityMoneyStr();
         this.runNumberTween(0, addUnit, 1.0);
     };
     BigWinNode.prototype.runNumberTween = function (from, to, duration) {
