@@ -291,6 +291,17 @@ var gameConfig = /** @class */ (function () {
             return Number(money);
         }
     };
+    gameConfig.getUnityMoneyStr = function () {
+        var money = 66;
+        var country = this.getCountry;
+        if (country == Country.BR) {
+            money = 330;
+        }
+        else if (country == Country.ID) {
+            money = 1056000;
+        }
+        return Number(money);
+    };
     gameConfig.getUnifyExchangeRate = function () {
         var country = this.getCountry;
         var exchangeRate = 1;
@@ -430,14 +441,17 @@ var gameConfig = /** @class */ (function () {
     };
     Object.defineProperty(gameConfig, "getCountry", {
         get: function () {
-            return Country.BR;
+            // return Country.BR;
+            // return Country.ID;
+            return Country.EN;
         },
         enumerable: false,
         configurable: true
     });
     Object.defineProperty(gameConfig, "getPlayableAdType", {
         get: function () {
-            return PlayableAdType.AppLovin;
+            // return PlayableAdType.AppLovin;
+            return PlayableAdType.Mtg;
         },
         enumerable: false,
         configurable: true
