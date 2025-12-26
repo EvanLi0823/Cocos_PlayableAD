@@ -173,6 +173,8 @@ export default class GameManager extends cc.Component{
 
 
     start() {
+        console.log("Start ---  start");
+
         this.tipLabel.string = gameConfig.getWord("tipLbl");
         // this.download.string = gameConfig.getWord("download");
         
@@ -184,6 +186,7 @@ export default class GameManager extends cc.Component{
                     gameConfig.setGuideShow();
                     LocalAssetsManager.releasePrefab(res);
                     aduioTools.playBackgroundMusic();
+                    this.onSpineClick();
                 };
             }
         })

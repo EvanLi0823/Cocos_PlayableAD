@@ -300,15 +300,34 @@ export default class gameConfig {
    }
 
    static getUnityMoneyStr() {
-      let money:any = 66;
+      let money:any = 166;
+      //从美元22换算
       let country = this.getCountry
       if(country == Country.BR)
       {
-         money =  330;
+         money =  850;
       }else if(country == Country.ID)
       {
-         money =  1056000;
-      }
+         money =  3300;
+      }else if(country == Country.PK)
+      {
+         money =  6000;
+      }else if(country == Country.KR)
+      {
+         money =  28500;
+      }else if(country == Country.RU)
+      {
+         money =  6500;
+      }else if(country == Country.PH)
+      {
+         money =  12000;
+      }else if(country == Country.VN)
+      {
+         money =  520000;
+      }else if(country == Country.IN)
+      {
+         money =  1800;
+      } 
       return Number(money);
    }
 
