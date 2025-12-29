@@ -23,6 +23,12 @@ export enum LanguageType {
    HI = "HI",
    /** 俄语 */
    RU = "RU",
+   /** 西班牙语 */
+   ES = "ES",
+   /** 德语 */
+   DE = "DE",
+   /** 法语 */
+   FR = "FR" 
 }
 
 export enum Country{
@@ -44,6 +50,14 @@ export enum Country{
    VN = "vn",   
    /**印度 */
    IN = "in",
+   /**葡萄牙 */
+   PT = "pt",
+   /**西班牙 */
+   ES = "es",
+   /**德国 */
+   DE= "de",
+   /**法国 */
+   FR = "fr"
 }
 
 class MoneyParam {
@@ -273,8 +287,58 @@ export default class gameConfig {
             },
             // tipLbl: "Окончательный результат не гарантируется. Сумма, которую вы можете получить, зависит от правил, опубликованных в приложении или на сайте.",
             tipLbl: "The final result is not guaranted, the amount you can obtain is subject to the rules published in the APP or web page.",
-         }
-         
+         },
+         ES: {
+            guide:  {
+               string: `<color=#FFFFFF>Toque para empezar</color>`,
+               fontSize: 40,
+            },
+            download:"Descargar",
+            cashOut:{
+               string: "Retirar",
+               fontSize: 80,
+            },
+            cashOutTop:{
+               string: "Retirar",
+               fontSize: 32,
+            },
+            // tipLbl: "El resultado final no está garantizado, la cantidad que puede obtener está sujeta a las reglas publicadas en la aplicación o página web.",
+            tipLbl: "The final result is not guaranted, the amount you can obtain is subject to the rules published in the APP or web page.",
+         },
+         DE: {
+            guide:  {
+               string: `<color=#FFFFFF>Tippen zum Starten</color>`,
+               fontSize: 40,
+            },
+            download:"Herunterladen",
+            cashOut:{
+               string: "Auszahlen",
+               fontSize: 80,
+            },
+            cashOutTop:{
+               string: "Auszahlen",
+               fontSize: 32,
+            },
+            // tipLbl: "Das Endergebnis ist nicht garantiert, der Betrag, den Sie erhalten können, unterliegt den in der APP oder auf der Webseite veröffentlichten Regeln.",
+            tipLbl: "The final result is not guaranted, the amount you can obtain is subject to the rules published in the APP or web page.",
+         },
+         FR: {
+            guide:  {
+               string: `<color=#FFFFFF>Appuyez pour commencer</color>`,
+               fontSize: 40,
+            },
+            download:"Télécharger",
+            cashOut:{
+               string: "Retirer",
+               fontSize: 80,
+            },
+            cashOutTop:{
+               string: "Retirer",
+               fontSize: 32,
+            },
+            // tipLbl: "Le résultat final n'est pas garanti, le montant que vous pouvez obtenir est soumis aux règles publiées dans l'APP ou sur la page web.",
+            tipLbl: "The final result is not guaranted, the amount you can obtain is subject to the rules published in the APP or web page.",
+         },
       }
       let language = this.localLanguage;
       console.log("getWord: type", type ,language )
@@ -301,7 +365,7 @@ export default class gameConfig {
 
    static getUnityMoneyStr() {
       let money:any = 166;
-      //从美元22换算
+      //从美元money的数值换算
       let country = this.getCountry
       if(country == Country.BR)
       {
@@ -327,7 +391,17 @@ export default class gameConfig {
       }else if(country == Country.IN)
       {
          money =  1800;
-      } 
+      }else if(country == Country.ES)
+      {
+         money =  155;
+      }else if(country == Country.DE)
+      {
+         money =  155;
+      }else if(country == Country.FR)
+      {
+         money =  155;
+      }
+
       return Number(money);
    }
 
@@ -357,6 +431,15 @@ export default class gameConfig {
          }
       else if(country == Country.EN){
             exchangeRate = 1; 
+      }
+      else if(country == Country.ES){
+            exchangeRate = 0.93; 
+      }
+      else if(country == Country.DE){
+            exchangeRate = 0.93; 
+      }
+      else if(country == Country.FR){
+            exchangeRate = 0.93; 
       }
    	return exchangeRate;
    }
@@ -449,20 +532,36 @@ export default class gameConfig {
          currency = "₫";
       }else if(country == Country.IN){
          currency = "₹";
+      }else if(country == Country.ES){
+         currency = "€";
+      }else if(country == Country.DE){
+         currency = "€";
+      }else if(country == Country.FR){
+         currency = "€";
       }
       return currency;
    }
 
 
    static get getCountry(){
-      return Country.BR;
+      // return Country.BR;
       // return Country.EN;
       // return Country.ID;
+      // return Country.PK;
+      // return Country.KR;
+      // return Country.RU;
+      // return Country.PH;
+      // return Country.VN;
+      // return Country.IN;
+      // return Country.ES;
+      return Country.DE;
+      // return Country.FR;
+      // return Country.PT;
    }
 
    static get getPlayableAdType(){
-      // return PlayableAdType.AppLovin;
-      return PlayableAdType.Mtg;
+      return PlayableAdType.AppLovin;
+      // return PlayableAdType.Mtg;
    }
 
    static get localLanguage() {
@@ -484,7 +583,14 @@ export default class gameConfig {
          language = LanguageType.VN;
       }else if(country == Country.IN){
          language = LanguageType.HI;
+      }  else if(country == Country.ES){
+         language = LanguageType.ES;
+      } else if(country == Country.DE){
+         language = LanguageType.DE;
+      } else if(country == Country.FR){
+         language = LanguageType.FR;
       }
+
       return language;
    }
 

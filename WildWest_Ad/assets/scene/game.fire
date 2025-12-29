@@ -942,7 +942,7 @@
     "_N$string": "DownLoad",
     "_fontSize": 70,
     "_lineHeight": 0,
-    "_enableWrapText": true,
+    "_enableWrapText": false,
     "_N$file": null,
     "_isSystemFontUsed": true,
     "_spacingX": 0,
@@ -952,7 +952,7 @@
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "Arial",
-    "_N$overflow": 0,
+    "_N$overflow": 2,
     "_N$cacheMode": 1,
     "_id": "76jWG+OGNBJpFq0HNXOpK5"
   },
@@ -1701,7 +1701,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 500,
+      "width": 365.72,
       "height": 96.2
     },
     "_anchorPoint": {
@@ -1767,7 +1767,7 @@
     "_N$horizontalAlign": 1,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "Arial",
-    "_N$overflow": 3,
+    "_N$overflow": 2,
     "_N$cacheMode": 1,
     "_id": "f9SkQCPzxHH56FVvGO3F/H"
   },
@@ -3170,9 +3170,7 @@
       "__id__": 63
     },
     "scorePrefab": null,
-    "rewardAnimPrefab": {
-      "__uuid__": "1b5b7568-3bb9-469d-888b-5fc59f40ff62"
-    },
+    "rewardAnimPrefab": null,
     "displayNode": {
       "__id__": 46
     },
