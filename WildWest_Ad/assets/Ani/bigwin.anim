@@ -32,6 +32,30 @@
             }
           ]
         }
+      },
+      "gameNode/big-win-di-kuang_bg_2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 3,
+                "y": 3,
+                "z": 1
+              }
+            }
+          ]
+        }
       }
     }
   },

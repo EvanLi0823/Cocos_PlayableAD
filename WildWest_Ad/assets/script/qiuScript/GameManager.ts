@@ -75,6 +75,9 @@ export default class GameManager extends cc.Component{
     @property(cc.Node)
     popup:cc.Node = null;
 
+    @property(cc.Node)
+    handBode:cc.Node = null;
+
     mergeCount = 0;
     passCount = 0;
 
@@ -115,14 +118,14 @@ export default class GameManager extends cc.Component{
             cc.director.getPhysicsManager().gravity = new cc.Vec2(0, -1700);
         }
         this.spineNode.active = false;
-         cc.tween(this.spinBtn.node)
-            .repeatForever(
-                cc.tween().sequence(
-                    cc.tween().to(1, {scale: 1.2}),
-                    cc.tween().to(1, {scale: 1})
-                )
-            )
-            .start()
+        //  cc.tween(this.spinBtn.node)
+        //     .repeatForever(
+        //         cc.tween().sequence(
+        //             cc.tween().to(1, {scale: 1.2}),
+        //             cc.tween().to(1, {scale: 1})
+        //         )
+        //     )
+        //     .start()
     }
     /**-----------------------------slots------------------------------------ */
 
@@ -133,6 +136,7 @@ export default class GameManager extends cc.Component{
         }
         this.isClicked = true;
         this.spineNode.active = true;
+        this.handBode.active = false;
         let anim =  this.spineNode.getComponent(cc.Animation);
         anim.once(cc.Animation.EventType.FINISHED, () => {
             setTimeout(() => {
@@ -178,18 +182,29 @@ export default class GameManager extends cc.Component{
         this.tipLabel.string = gameConfig.getWord("tipLbl");
         // this.download.string = gameConfig.getWord("download");
         
-        cc.resources.load("prefab/GuidePrefab", cc.Prefab, (err, res) => {
-            if (res) {
-                let guideNode = cc.instantiate(res as cc.Prefab);
-                this.canvas.addChild(guideNode);
-                guideNode.getComponent(GuideScript).callback = () => {
-                    gameConfig.setGuideShow();
-                    LocalAssetsManager.releasePrefab(res);
-                    aduioTools.playBackgroundMusic();
-                    this.onSpineClick();
-                };
-            }
-        })
+        // cc.resources.load("prefab/GuidePrefab", cc.Prefab, (err, res) => {
+        //     if (res) {
+        //         let guideNode = cc.instantiate(res as cc.Prefab);
+        //         this.canvas.addChild(guideNode);
+        //         guideNode.getComponent(GuideScript).callback = () => {
+        //             gameConfig.setGuideShow();
+        //             LocalAssetsManager.releasePrefab(res);
+        //             aduioTools.playBackgroundMusic();
+        //             this.onSpineClick();
+        //         };
+        //     }
+        // })
+        this.handBode.active = true;
+        cc.tween(this.handBode)
+        .repeatForever(
+            cc.tween()
+                .to(0.35, { scale:0.8 })
+                .delay(0.07)
+                .to(0.35, { scale:1.5 })
+                .delay(0.07)
+                .to(0.5, { scale:1 })
+        )
+        .start()
         if (gameConfig.getPlayableAdType === PlayableAdType.Mtg) {
             window.gameReady && window.gameReady();
         }

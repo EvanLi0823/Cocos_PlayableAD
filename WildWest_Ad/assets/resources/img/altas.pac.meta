@@ -6,7 +6,7 @@
   "maxHeight": 1024,
   "padding": 2,
   "compressionLevel": 6,
-  "allowRotation": true,
+  "allowRotation": false,
   "forceSquared": false,
   "powerOfTwo": false,
   "algorithm": "MaxRects",
