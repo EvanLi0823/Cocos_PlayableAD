@@ -363,43 +363,43 @@ export default class gameConfig {
       }
    }
 
-   static getUnityMoneyStr() {
-      let money:any = 166;
+   static getUnityMoneyStr(){
+      let money:any = 300;
       //从美元money的数值换算
       let country = this.getCountry
       if(country == Country.BR)
       {
-         money =  850;
+         money =  1550;
       }else if(country == Country.ID)
       {
-         money =  3300;
+         money =  450000;
       }else if(country == Country.PK)
       {
-         money =  6000;
+         money =  82500;
       }else if(country == Country.KR)
       {
-         money =  28500;
+         money =  387000;
       }else if(country == Country.RU)
       {
-         money =  6500;
+         money =  23000;
       }else if(country == Country.PH)
       {
-         money =  12000;
+         money =  15000;
       }else if(country == Country.VN)
       {
-         money =  520000;
+         money =  720000;
       }else if(country == Country.IN)
       {
-         money =  1800;
+         money =  24600;
       }else if(country == Country.ES)
       {
-         money =  155;
+         money =  280;
       }else if(country == Country.DE)
       {
-         money =  155;
+         money =  280;
       }else if(country == Country.FR)
       {
-         money =  155;
+         money =  280;
       }
 
       return Number(money);
@@ -544,24 +544,18 @@ export default class gameConfig {
 
 
    static get getCountry(){
-      // return Country.BR;
       // return Country.EN;
       // return Country.ID;
-      // return Country.PK;
-      // return Country.KR;
       // return Country.RU;
-      // return Country.PH;
-      // return Country.VN;
-      // return Country.IN;
       // return Country.ES;
-      return Country.DE;
+      // return Country.DE;
       // return Country.FR;
-      // return Country.PT;
+      return Country.PT;
    }
 
    static get getPlayableAdType(){
-      return PlayableAdType.AppLovin;
-      // return PlayableAdType.Mtg;
+      // return PlayableAdType.AppLovin;
+      return PlayableAdType.Mtg;
    }
 
    static get localLanguage() {

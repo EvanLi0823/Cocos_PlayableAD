@@ -14,7 +14,7 @@ export default class GuideScript extends cc.Component {
 
     callback:Function = null;
     onLoad () {
-        this.handNode.setPosition(GameManager.Instance.btnNode.getPosition())
+        // this.handNode.setPosition(GameManager.Instance.btnNode.getPosition())
 
     } 
 
