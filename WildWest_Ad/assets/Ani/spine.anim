@@ -3,7 +3,7 @@
   "_name": "spine",
   "_objFlags": 0,
   "_native": "",
-  "_duration": 0.9833333333333333,
+  "_duration": 0.7833333333333333,
   "sample": 60,
   "speed": 0.5,
   "wrapMode": 1,
@@ -153,42 +153,6 @@
             "frame": 0.7666666666666667,
             "value": {
               "__uuid__": "310e755a-c9ce-45a6-8c0d-a97e21a2d3cc"
-            }
-          },
-          {
-            "frame": 0.8,
-            "value": {
-              "__uuid__": "d04d972e-f708-4a84-8c82-9f7418a8a383"
-            }
-          },
-          {
-            "frame": 0.8333333333333334,
-            "value": {
-              "__uuid__": "86dfb1bf-c3cf-4d19-b12b-fa9cde24c213"
-            }
-          },
-          {
-            "frame": 0.8666666666666667,
-            "value": {
-              "__uuid__": "1fa6af2d-c4df-4347-be8b-fd99cbe8ee1f"
-            }
-          },
-          {
-            "frame": 0.9,
-            "value": {
-              "__uuid__": "e1ff3c0d-3259-4c4b-b023-22fbb9f1011a"
-            }
-          },
-          {
-            "frame": 0.9333333333333333,
-            "value": {
-              "__uuid__": "5bb23c26-2382-4fca-9c88-b75125a6b3bc"
-            }
-          },
-          {
-            "frame": 0.9666666666666667,
-            "value": {
-              "__uuid__": "28b9d816-053a-4e53-abdd-c7ae79f6a82e"
             }
           }
         ]
