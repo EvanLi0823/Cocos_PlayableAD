@@ -5,6 +5,7 @@ import JsbSdkScript from "./PlatformInteraction/JsbSdkScript";
 export enum PlayableAdType {
    AppLovin = "AppLovin",
    Mtg = "Mtg",
+   UnityAD = "UnityAD",
 }
 
 export enum LanguageType {
@@ -548,14 +549,16 @@ export default class gameConfig {
       // return Country.ID;
       // return Country.RU;
       // return Country.ES;
-      // return Country.DE;
+      return Country.DE;
       // return Country.FR;
-      return Country.PT;
+      // return Country.PT;
    }
 
    static get getPlayableAdType(){
       // return PlayableAdType.AppLovin;
-      return PlayableAdType.Mtg;
+      // return PlayableAdType.Mtg;
+      return PlayableAdType.UnityAD;
+
    }
 
    static get localLanguage() {

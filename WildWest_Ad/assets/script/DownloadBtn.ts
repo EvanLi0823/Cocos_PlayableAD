@@ -26,14 +26,21 @@ export default class DownloadBtn extends cc.Component {
     }
 
     callback(){
-        console.log("点击了")
-        //mtg打开下方这行
         if (gameConfig.getPlayableAdType === PlayableAdType.Mtg) {
-            window.install&&window.install();
-        }else if (gameConfig.getPlayableAdType === PlayableAdType.AppLovin) {
-            //applovin打开下方这行
-            window.mraid && window.mraid.open('https://play.google.com/store/apps/details?id=com.crazy.roil.jackpot.oqed.slots');
+            //mtg打开下面这行
+            window.gameEnd&&window.gameEnd();
+        }else if (gameConfig.getPlayableAdType === PlayableAdType.UnityAD) {
+            window.openStore&&window.openStore();
         }
+        
+        // console.log("点击了")
+        // //mtg打开下方这行
+        // if (gameConfig.getPlayableAdType === PlayableAdType.Mtg) {
+        //     window.install&&window.install();
+        // }else if (gameConfig.getPlayableAdType === PlayableAdType.AppLovin) {
+        //     //applovin打开下方这行
+        //     window.mraid && window.mraid.open('https://play.google.com/store/apps/details?id=com.crazy.roil.jackpot.oqed.slots');
+        // }
     }
 }
 
